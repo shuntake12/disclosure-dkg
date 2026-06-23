@@ -24,6 +24,13 @@ class EntityType(str, Enum):
     PRODUCT = "product"
     INDUSTRY = "industry"
     EVENT = "event"
+    # FinDKG 互換拡張 (ORG/GOV, ORG/REG, GPE, ECON_IND, FIN_INST, CONCEPT)
+    GOVERNMENT = "government"
+    REGULATOR = "regulator"
+    GEO_POLITICAL = "geo_political"
+    ECONOMIC_INDICATOR = "economic_indicator"
+    FINANCIAL_INSTRUMENT = "financial_instrument"
+    CONCEPT = "concept"
 
 
 # ── 関係型 ─────────────────────────────────────────────────────
@@ -70,6 +77,12 @@ class RelationType(str, Enum):
     ESG_INITIATIVE = "esg_initiative"
     LAUNCHES = "launches"
 
+    # 因果・影響（FinDKG Impact 系）
+    IMPACTS = "impacts"
+    POSITIVELY_IMPACTS = "positively_impacts"
+    NEGATIVELY_IMPACTS = "negatively_impacts"
+    ANNOUNCES = "announces"
+
     # その他
     OTHER = "other"
 
@@ -83,6 +96,30 @@ class FiscalPeriod(BaseModel):
     start_date: str | None = None  # "2024-04-01"
     end_date: str | None = None  # "2025-03-31"
     disclosure_date: str | None = None  # "2025-05-08"
+
+    def to_unix_timestamp(self) -> float:
+        """DyGFormer CTDG 対応: 連続タイムスタンプへ変換。
+
+        disclosure_date があればそれを使用、なければ fiscal_year +
+        period_type からデフォルト日を推定する（日本企業の標準的開示日）。
+        """
+        from datetime import datetime
+
+        if self.disclosure_date:
+            try:
+                dt = datetime.strptime(self.disclosure_date[:10], "%Y-%m-%d")
+                return dt.timestamp()
+            except ValueError:
+                pass
+
+        # fiscal_year から年度を抽出 ("FY2024" → 2024)
+        year = int("".join(c for c in self.fiscal_year if c.isdigit()) or "2024")
+        # 日本企業の標準的開示日を推定
+        month_map = {"annual": 5, "q1": 8, "q2": 11, "q3": 2, "q4": 5}
+        month = month_map.get(self.period_type, 5)
+        est_year = year + 1 if month <= 5 else year
+        dt = datetime(est_year, month, 15)
+        return dt.timestamp()
 
 
 # ── エンティティ参照 ───────────────────────────────────────────
@@ -167,6 +204,12 @@ ENTITY_TYPES_JA = {
     EntityType.PRODUCT: "製品・サービス",
     EntityType.INDUSTRY: "業種",
     EntityType.EVENT: "イベント（M&A, 増配等）",
+    EntityType.GOVERNMENT: "政府機関（経産省, 日銀等）",
+    EntityType.REGULATOR: "規制機関（金融庁, SEC等）",
+    EntityType.GEO_POLITICAL: "地政学的エンティティ（国, 経済圏）",
+    EntityType.ECONOMIC_INDICATOR: "経済指標（CPI, 日銀短観等）",
+    EntityType.FINANCIAL_INSTRUMENT: "金融商品（株式, 債券, デリバティブ）",
+    EntityType.CONCEPT: "概念（AI, ESG, DX等）",
 }
 
 RELATION_TYPES_JA = {
@@ -196,6 +239,10 @@ RELATION_TYPES_JA = {
     RelationType.RISK_FACTOR: "リスク要因",
     RelationType.ESG_INITIATIVE: "ESG施策",
     RelationType.LAUNCHES: "新規事業/製品投入",
+    RelationType.IMPACTS: "影響",
+    RelationType.POSITIVELY_IMPACTS: "正の影響",
+    RelationType.NEGATIVELY_IMPACTS: "負の影響",
+    RelationType.ANNOUNCES: "発表・公表",
     RelationType.OTHER: "その他",
 }
 

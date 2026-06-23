@@ -299,6 +299,7 @@ def merge_facts(
         key = (
             f"{f.quintuple.subject.name}|"
             f"{f.quintuple.relation.value}|"
+            f"{f.quintuple.object_text}|"
             f"{f.quintuple.timestamp.fiscal_year}"
         )
         if key not in seen:
@@ -310,6 +311,7 @@ def merge_facts(
         key = (
             f"{f.quintuple.subject.name}|"
             f"{f.quintuple.relation.value}|"
+            f"{f.quintuple.object_text}|"
             f"{f.quintuple.timestamp.fiscal_year}"
         )
         if key not in seen:
