@@ -263,6 +263,78 @@ def export_dyglib_format(
     return csv_path
 
 
+def export_findkg_format(
+    G: nx.MultiDiGraph,
+    name: str = "dkg_findkg",
+    train_ratio: float = 0.7,
+    val_ratio: float = 0.15,
+) -> Path:
+    """FinDKG 公開リポジトリ (DKG/data.py) 互換の TSV を出力。
+
+    FinDKG data.py が期待する形式:
+      train.txt / valid.txt / test.txt — TSV (head, rel, tail, time, _)
+      stat.txt — (num_entities, num_relations, _)
+      entity2id.txt — (entity, entity_id, ntype, ntype_id)
+    """
+    out_dir = GRAPHS_DIR / name
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # ノード → 整数 ID + エンティティ型 ID
+    node_list = sorted(G.nodes())
+    node_to_id = {n: i for i, n in enumerate(node_list)}
+
+    entity_type_set = sorted(set(
+        G.nodes[n].get("entity_type", "unknown") for n in node_list
+    ))
+    etype_to_id = {et: i for i, et in enumerate(entity_type_set)}
+
+    # 関係型 → 整数 ID
+    rel_set = sorted(set(d.get("relation", "other") for _, _, d in G.edges(data=True)))
+    rel_to_id = {r: i for i, r in enumerate(rel_set)}
+
+    # エッジを時系列順にソート
+    edges = []
+    for u, v, data in G.edges(data=True):
+        edges.append((
+            node_to_id[u],
+            rel_to_id.get(data.get("relation", "other"), 0),
+            node_to_id[v],
+            data.get("continuous_ts", 0),
+        ))
+    edges.sort(key=lambda x: x[3])
+
+    # chronological train/val/test 分割
+    n = len(edges)
+    n_train = int(n * train_ratio)
+    n_val = int(n * (train_ratio + val_ratio))
+
+    for split_name, split_edges in [
+        ("train.txt", edges[:n_train]),
+        ("valid.txt", edges[n_train:n_val]),
+        ("test.txt", edges[n_val:]),
+    ]:
+        with open(out_dir / split_name, "w") as f:
+            for h, r, t, ts in split_edges:
+                f.write(f"{h}\t{r}\t{t}\t{ts}\t0\n")
+
+    # stat.txt
+    with open(out_dir / "stat.txt", "w") as f:
+        f.write(f"{len(node_list)}\t{len(rel_set)}\t{len(edges)}\n")
+
+    # entity2id.txt
+    with open(out_dir / "entity2id.txt", "w") as f:
+        for node_name in node_list:
+            nid = node_to_id[node_name]
+            etype = G.nodes[node_name].get("entity_type", "unknown")
+            etype_id = etype_to_id.get(etype, 0)
+            f.write(f"{node_name}\t{nid}\t{etype}\t{etype_id}\n")
+
+    print(f"  FinDKG format: {out_dir}/")
+    print(f"    train: {n_train}, val: {n_val - n_train}, test: {n - n_val}")
+    print(f"    entities: {len(node_list)}, relations: {len(rel_set)}")
+    return out_dir
+
+
 def load_graph(name: str = "dkg") -> nx.MultiDiGraph:
     """保存済みグラフを読み込み。"""
     path = GRAPHS_DIR / f"{name}.json"
