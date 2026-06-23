@@ -1,0 +1,601 @@
+subject,relation,object,value,unit,fiscal_year,confidence,source_doc,extraction_method
+ＳＢＩ岡三アセットマネジメント株式会社,other,信託報酬の総額は年率1.65%（税抜1.50%）,1.65,％,FY2024,0.9,S100VJ2D,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,other,2025年6月18日提出,,,FY2024,0.9,S100VJ2I,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,operates_in,日本を含む世界各国の取引所等,,,FY2024,0.78,S100VJ2I,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,dividend_is,年1回,1.0,回/年,FY2024,0.82,S100VJ2I,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,risk_factor,株価変動リスク（株式価格の下落により基準価額が下落し損失となる可能性）,,,FY2024,0.72,S100VJ2I,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,total_assets_is,投資信託財産の資産総額から負債総額を控除した金額（純資産総額）,,,FY2024,0.35,S100VJ2I,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,other,塩川 克史,,,FY2024,0.92,S100VJHU,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,dividend_is,運用報酬：純資産総額に対して年率0.65%,0.65,%,FY2024,0.88,S100VJHU,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,operates_in,投資対象地域：わが国（邦貨建資産）,,,FY2024,0.75,S100VJHU,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,other,ファンドはファミリーファンド方式で運用,,,FY2024,0.78,S100VJHY,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,other,資本金1億円,100.0,百万円,FY2024,0.9,S100VKDZ,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,has_segment,投資状況,,,FY2024,0.3,S100VKDZ,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,operates_in,日本,,,FY2024,0.6,S100VKDZ,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,total_assets_is,"1,514,382,959円（純資産総額）",1514.0,百万円,FY2024,0.85,S100VKDZ,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,operating_profit_is,None,,,FY2024,0.0,S100VKDZ,llm_direct
+ＳＢＩ岡三アセットマネジメント株式会社,dividend_is,分配金0.011750円（第25期計算期間）,0.01175,円/口,FY2024,0.9,S100VKDZ,llm_direct
+SBI岡三アセットマネジメント株式会社,other,2014年1月1日以降2037年12月31日まで：20.315%,20.315,percent,FY2024,0.78,S100VJ2D,llm_direct
+SBI岡三アセットマネジメント株式会社,dividend_is,20.315％,20.315,％,FY2024,0.12,S100VJHU,llm_direct
+SBI岡三アセットマネジメント株式会社,other,年率1.298％（税抜1.18％）,1.298,％,FY2024,0.9,S100VJHU,llm_direct
+SBI岡三アセットマネジメント株式会社,other,投資証券（97.85%）,97.85,%,FY2024,0.78,S100VJHY,llm_direct
+SBI岡三アセットマネジメント株式会社,other,日々の基準価額および純資産照合、月次の勘定残高照合を実施,,,FY2024,0.6,S100VKDZ,llm_direct
+ワールド・リート・セレクション（欧州）,other,2025年3月31日現在の運用状況,,,FY2024,0.55,S100VJ2D,llm_direct
+ワールド・リート・セレクション（欧州）,total_assets_is,"490,712,160円",490712.16,百万円,FY2024,0.9,S100VJ2D,llm_direct
+ワールド・リート・セレクション（欧州）,dividend_is,0.0030円（1口当たり）,0.003,円,FY2024,0.7,S100VJ2D,llm_direct
+ワールド・リート・セレクション（欧州）,revenue_change,第37特定期間の収益率（-8.0%）,-8.0,%,FY2024,0.86,S100VJ2D,llm_direct
+ヨーロッパリート・マザーファンド,total_assets_is,"674,409,092円",674409.092,百万円,FY2024,0.9,S100VJ2D,llm_direct
+ヨーロッパリート・マザーファンド,other,投資証券（イギリス）,320782901.0,円,FY2024,0.74,S100VJHY,llm_direct
+グローバル仮想世界株式戦略ファンド,other,ファンド・オブ・ファンズ形式で運用,,,FY2024,0.95,S100VJ2I,llm_direct
+グローバル仮想世界株式戦略ファンド,forecast_revenue,None,7739867.62,百万円,FY2024,0.72,S100VJ2I,llm_direct
+グローバルメタバースファンド（円建て、ヘッジなしクラス）,has_segment,シェアクラス：円建て、ヘッジなしクラス,,,FY2024,0.72,S100VJ2I,llm_direct
+グローバルメタバースファンド（円建て、ヘッジなしクラス）,other,信託報酬（実質的な信託報酬）年率0.65%（計算期間を通じて毎日）,,,FY2024,0.9,S100VJ2I,llm_direct
+ＳＢＩＦＳ合同会社,other,持株比率：51.0％,,,FY2024,0.78,S100VJ2I,llm_direct
+株式会社岡三証券グループ,other,持株比率：49.0％,,,FY2024,0.78,S100VJ2I,llm_direct
+世界半導体関連フォーカスファンド,other,投資信託契約締結、設定、運用開始,,,FY2024,0.9,S100VJHU,llm_direct
+世界半導体関連フォーカスファンド,total_assets_is,"99,110,925,481",99110.925481,百万円,FY2024,0.93,S100VJHU,llm_direct
+世界半導体関連フォーカスファンド,eps_is,1.2623,1.2623,円,FY2024,0.7,S100VJHU,llm_direct
+グローバル・リート・セレクション,other,親投資信託受益証券（日本）,2228522121.0,円,FY2024,0.72,S100VJHY,llm_direct
+北米リート・マザーファンド,other,投資証券（アメリカ）,4271207978.0,円,FY2024,0.74,S100VJHY,llm_direct
+オーストラリア／アジアリート・マザーファンド,other,投資証券（日本）,127020700.0,円,FY2024,0.74,S100VJHY,llm_direct
+日本グロースオープン,other,"信託金の限度額3,000億円",300000.0,百万円,FY2024,0.85,S100VKDZ,llm_direct
+三菱ＵＦＪフィナンシャル・グループ,belongs_to_industry,銀行業,,,FY2024,0.9,S100VKDZ,llm_direct
+ソニーグループ,belongs_to_industry,電気機器,,,FY2024,0.9,S100VKDZ,llm_direct
+ソニーグループ,forecast_profit,通期営業利益見通し（前回比上方修正）,2.0,percent,FY2024,0.8,news_ロイター（想定）,news_llm
+ソニーグループ,revenue_change,ゲームソフト販売本数（前年同期比）,9.0,percent,FY2024,0.78,news_ロイター（想定）,news_llm
+ソニーグループ,partners_with,Microsoft,,,FY2024,0.72,news_ロイター（想定）,news_llm
+ソニーグループ,partners_with,Microsoft,,,FY2024,0.65,news_ロイター（想定）,news_llm
+ソニーグループ,competes_with,任天堂,,,FY2024,0.7,news_ロイター（想定）,news_llm
+ソニーグループ,invests_in,2025年度増産投資,420000.0,百万円,FY2024,0.86,news_日経電子版（想定）,news_llm
+ソニーグループ,forecast_revenue,画像センサー事業売上,12.0,増減率(%),FY2024,0.74,news_日経電子版（想定）,news_llm
+ソニーグループ,partners_with,大手ファウンドリ,,,FY2024,0.7,news_日経電子版（想定）,news_llm
+ソニーグループ,partners_with,キオクシア,,,FY2024,0.78,news_日経電子版（想定）,news_llm
+ソニーグループ,competes_with,カメラモジュール大手,,,FY2024,0.68,news_日経電子版（想定）,news_llm
+ソニーグループ,partners_with,マイクロソフト,,,FY2024,0.85,news_テックメディア（想定）,news_llm
+ソニーグループ,operates_in,ゲーム開発,,,FY2024,0.8,news_テックメディア（想定）,news_llm
+ソニーグループ,guidance_change,デバッグ工数削減目標,15.0,%,FY2024,0.8,news_テックメディア（想定）,news_llm
+ソニーグループ,competes_with,テンセント,,,FY2024,0.6,news_テックメディア（想定）,news_llm
+ソニーグループ,competes_with,国内大手,,,FY2024,0.55,news_テックメディア（想定）,news_llm
+ソニーグループ,launches,モバイル向け専用AIカメラ機能（夜景・被写体追従）,,,FY2024,0.92,news_業界紙（想定）,news_llm
+ソニーグループ,operates_in,モバイル向けカメラ関連,,,FY2024,0.85,news_業界紙（想定）,news_llm
+ソニーグループ,forecast_profit,粗利率,0.8,pt,FY2024,0.8,news_業界紙（想定）,news_llm
+ソニーグループ,revenue_change,カメラセンサー/画像処理モジュール出荷,10.0,%,FY2024,0.78,news_業界紙（想定）,news_llm
+ソニーグループ,risk_factor,材料価格上昇,,,FY2024,0.7,news_業界紙（想定）,news_llm
+ソニーグループ,partners_with,大手部材メーカー,,,FY2024,0.74,news_業界紙（想定）,news_llm
+ソニーグループ,competes_with,Samsung系,,,FY2024,0.68,news_業界紙（想定）,news_llm
+ソニーグループ,competes_with,中国メーカー,,,FY2024,0.68,news_業界紙（想定）,news_llm
+ソニーグループ,revenue_is,調達コスト,-3.0,%,FY2024,0.72,news_業界紙（想定）,news_llm
+トヨタ自動車,belongs_to_industry,輸送用機器,,,FY2024,0.88,S100VKDZ,llm_direct
+三菱重工業,belongs_to_industry,機械,,,FY2024,0.88,S100VKDZ,llm_direct
+日立製作所,belongs_to_industry,電気機器,,,FY2024,0.88,S100VKDZ,llm_direct
+フジクラ,belongs_to_industry,非鉄金属,,,FY2024,0.86,S100VKDZ,llm_direct
+みずほフィナンシャルグループ,belongs_to_industry,銀行業,,,FY2024,0.86,S100VKDZ,llm_direct
+みずほフィナンシャルグループ,competes_with,MUFG,,,FY2024,0.7,news_ブルームバーグ（フィクション）,news_llm
+ＫＤＤＩ,belongs_to_industry,情報・通信業,,,FY2024,0.86,S100VKDZ,llm_direct
+東京海上ホールディングス,belongs_to_industry,保険業,,,FY2024,0.86,S100VKDZ,llm_direct
+富士通,belongs_to_industry,電気機器,,,FY2024,0.84,S100VKDZ,llm_direct
+中外製薬,belongs_to_industry,医薬品,,,FY2024,0.84,S100VKDZ,llm_direct
+光通信,belongs_to_industry,情報・通信業,,,FY2024,0.84,S100VKDZ,llm_direct
+ベイカレントサービス,belongs_to_industry,サービス業,,,FY2024,0.84,S100VKDZ,llm_direct
+りそなホールディングス,belongs_to_industry,銀行業,,,FY2024,0.84,S100VKDZ,llm_direct
+Ｔ＆Ｄホールディングス,belongs_to_industry,保険業,,,FY2024,0.84,S100VKDZ,llm_direct
+ファーストリテイリング,belongs_to_industry,小売業,,,FY2024,0.84,S100VKDZ,llm_direct
+ファーストリテイリング,competes_with,H&M,,,FY2024,0.75,news_日経マーケット・データ,news_llm
+ファーストリテイリング,competes_with,H&M,,,FY2024,0.7,news_QUICKニュース,news_llm
+ファーストリテイリング,competes_with,H&M,,,FY2024,0.75,news_トムソン・ロイター・アジア,news_llm
+ファーストリテイリング,competes_with,ZARA,,,FY2024,0.75,news_日経マーケット・データ,news_llm
+ファーストリテイリング,competes_with,ZARA,,,FY2024,0.75,news_ファッション経済,news_llm
+ファーストリテイリング,supplies_to,主要縫製・染色パートナー（既存）,,,FY2024,0.55,news_日経マーケット・データ,news_llm
+ファーストリテイリング,operates_in,重点地域（直営店舗）,,,FY2024,0.55,news_日経マーケット・データ,news_llm
+ファーストリテイリング,risk_factor,為替影響,,,FY2024,0.6,news_日経マーケット・データ,news_llm
+ファーストリテイリング,revenue_change,ユニクロ（主力地域販売）,0.08,前年比,FY2024,0.55,news_ロイター日本,news_llm
+ファーストリテイリング,operating_profit_is,営業利益率,1.5,ポイント上昇（推定）,FY2024,0.5,news_ロイター日本,news_llm
+ファーストリテイリング,partners_with,既存サプライヤー,,,FY2024,0.6,news_ロイター日本,news_llm
+ファーストリテイリング,competes_with,競合のアパレル大手,,,FY2024,0.5,news_ロイター日本,news_llm
+ファーストリテイリング,risk_factor,競争環境（広告費増）,,,FY2024,0.45,news_ロイター日本,news_llm
+ファーストリテイリング,partners_with,主要な生産・物流パートナー,,,FY2024,0.45,news_QUICKニュース,news_llm
+ファーストリテイリング,launches,AI需要予測を用いた商品配分（データドリブン・リテール）,,,FY2024,0.85,news_QUICKニュース,news_llm
+ファーストリテイリング,risk_factor,売れ残り（値引き発生率）,,,FY2024,0.6,news_QUICKニュース,news_llm
+ファーストリテイリング,other,粗利率の下支え持続性,,,FY2024,0.5,news_QUICKニュース,news_llm
+ファーストリテイリング,partners_with,サプライヤー,,,FY2024,0.7,news_ファッション経済,news_llm
+ファーストリテイリング,invests_in,主要生産国の検品工程自動化,,,FY2024,0.8,news_ファッション経済,news_llm
+ファーストリテイリング,invests_in,出荷リードタイム短縮,,,FY2024,0.8,news_ファッション経済,news_llm
+ファーストリテイリング,risk_factor,調達遅延リスク（主要生産国）,,,FY2024,0.7,news_ファッション経済,news_llm
+ファーストリテイリング,partners_with,現地パートナー企業,,,FY2024,0.7,news_トムソン・ロイター・アジア,news_llm
+ファーストリテイリング,competes_with,GAP,,,FY2024,0.75,news_トムソン・ロイター・アジア,news_llm
+ファーストリテイリング,operates_in,中東,,,FY2024,0.7,news_トムソン・ロイター・アジア,news_llm
+ファーストリテイリング,operates_in,東南アジア,,,FY2024,0.7,news_トムソン・ロイター・アジア,news_llm
+ファーストリテイリング,invests_in,既存店の改装・売場効率改善,,,FY2024,0.65,news_トムソン・ロイター・アジア,news_llm
+ファーストリテイリング,risk_factor,為替変動,,,FY2024,0.6,news_トムソン・ロイター・アジア,news_llm
+ファーストリテイリング,risk_factor,成長率維持リスク,,,FY2024,0.6,news_トムソン・ロイター・アジア,news_llm
+リクルートホールディングス,belongs_to_industry,サービス業,,,FY2024,0.84,S100VKDZ,llm_direct
+リクルートホールディングス,competes_with,マイナビ,,,FY2024,0.85,news_日経ビジネス（想定）,news_llm
+リクルートホールディングス,operates_in,国内人材領域,,,FY2024,0.8,news_日経ビジネス（想定）,news_llm
+リクルートホールディングス,risk_factor,採算性の低い人材派遣・運営施策,,,FY2024,0.7,news_日経ビジネス（想定）,news_llm
+任天堂,belongs_to_industry,その他製品,,,FY2024,0.83,S100VKDZ,llm_direct
+任天堂,partners_with,主要取引先（従来サプライヤー）,,,FY2024,0.62,news_日本経済フォーカス（仮想）,news_llm
+任天堂,partners_with,韓国・台湾系メーカー（調達先）,,,FY2024,0.6,news_日本経済フォーカス（仮想）,news_llm
+任天堂,other,,,,FY2024,0.7,news_日本経済フォーカス（仮想）,news_llm
+任天堂,forecast_revenue,携帯機向け液晶・半導体部材の出荷見通し,12.0,%,FY2024,0.7,news_日本経済フォーカス（仮想）,news_llm
+任天堂,risk_factor,供給遅延リスク,,,FY2024,0.66,news_日本経済フォーカス（仮想）,news_llm
+任天堂,forecast_profit,粗利益率,,,FY2024,0.55,news_日本経済フォーカス（仮想）,news_llm
+任天堂,partners_with,EA/UBI相当の海外大手パブリッシャー,,,FY2024,0.6,news_ゲーム業界レポート（仮想）,news_llm
+任天堂,competes_with,マイクロソフト,,,FY2024,0.8,news_ゲーム業界レポート（仮想）,news_llm
+任天堂,competes_with,マイクロソフト,,,FY2024,0.65,news_テック&コマース（仮想）,news_llm
+任天堂,partners_with,モバイル領域の協業実績を持つ大手運営会社,,,FY2024,0.6,news_日経クロスメディア（仮想）,news_llm
+任天堂,revenue_change,モバイル関連売上（2025年4-6月）,18.0,%,FY2024,0.75,news_日経クロスメディア（仮想）,news_llm
+任天堂,forecast_profit,ARPU（目標増加率）,9.0,%,FY2024,0.65,news_日経クロスメディア（仮想）,news_llm
+任天堂,revenue_change,売上高増減率,6.0,%,FY2024,0.75,news_マクロ・ファイナンス（仮想）,news_llm
+任天堂,operating_profit_is,営業利益率,14.2,%,FY2024,0.7,news_マクロ・ファイナンス（仮想）,news_llm
+任天堂,operating_profit_is,営業利益率（前年同期）,12.8,%,FY2024,0.7,news_マクロ・ファイナンス（仮想）,news_llm
+任天堂,risk_factor,利益率維持リスク,,,FY2024,0.65,news_マクロ・ファイナンス（仮想）,news_llm
+任天堂,risk_factor,為替リスク,,,FY2024,0.75,news_マクロ・ファイナンス（仮想）,news_llm
+任天堂,risk_factor,在庫評価損リスク（競争環境）,,,FY2024,0.6,news_マクロ・ファイナンス（仮想）,news_llm
+任天堂,competes_with,ソニー,,,FY2024,0.62,news_テック&コマース（仮想）,news_llm
+任天堂,operates_in,ゲーム開発,,,FY2024,0.8,news_テック&コマース（仮想）,news_llm
+任天堂,guidance_change,品質保証（QA）工数,-10.0,%,FY2024,0.7,news_テック&コマース（仮想）,news_llm
+任天堂,guidance_change,ローカライズ差し戻し率,-7.0,%,FY2024,0.7,news_テック&コマース（仮想）,news_llm
+任天堂,risk_factor,ブランド品質毀損,,,FY2024,0.58,news_テック&コマース（仮想）,news_llm
+スズキ,belongs_to_industry,輸送用機器,,,FY2024,0.83,S100VKDZ,llm_direct
+良品計画,belongs_to_industry,小売業,,,FY2024,0.83,S100VKDZ,llm_direct
+アドバンテスト,belongs_to_industry,電気機器,,,FY2024,0.82,S100VKDZ,llm_direct
+アシックス,belongs_to_industry,その他製品,,,FY2024,0.82,S100VKDZ,llm_direct
+ＳＨＩＦＴ,belongs_to_industry,情報・通信業,,,FY2024,0.82,S100VKDZ,llm_direct
+デクセリアルズ,belongs_to_industry,化学,,,FY2024,0.82,S100VKDZ,llm_direct
+ＮＴＴデータグループ,belongs_to_industry,情報・通信業,,,FY2024,0.81,S100VKDZ,llm_direct
+日興アセットマネジメント株式会社,other,2025年9月1日にアモーヴァ・アセットマネジメント株式会社へ変更,,,FY2024,0.85,S100VMER,llm_direct
+日興アセットマネジメント株式会社,other,2025年9月1日にアモーヴァ・アセットマネジメント株式会社へ変更,,,FY2024,0.85,S100VMF4,llm_direct
+日興アセットマネジメント株式会社,risk_factor,一度に大量の解約があった場合、保有有価証券を大量売却し、評価価格と実際の取引価格に差が生じるなどして基準価額が大きく変動する可能性がある,,,FY2024,0.72,S100VMER,llm_direct
+日興アセットマネジメント株式会社,dividend_is,申込手数料率の上限 3.3%（税抜3%）,0.033,,FY2024,0.45,S100VMER,llm_direct
+日興アセットマネジメント株式会社,net_assets_is,"第18特定期間末（2015年9月15日）純資産総額 40,950百万円（分配落ち）",40950.0,百万円,FY2024,0.93,S100VMER,llm_direct
+日興アセットマネジメント株式会社,risk_factor,証券市場および外国為替市場の停止等により運用ができない可能性,,,FY2024,0.72,S100VMET,llm_direct
+日興アセットマネジメント株式会社,other,信託報酬率（当ファンド）年1.188％（税抜1.08％）,1.188,％,FY2024,0.92,S100VMET,llm_direct
+日興アセットマネジメント株式会社,operates_in,ルクセンブルク,0.0,,FY2024,0.55,S100VMET,llm_direct
+日興アセットマネジメント株式会社,total_assets_is,"3,358.928744百万円",3358.928744,百万円,FY2024,0.75,S100VMET,llm_direct
+日興アセットマネジメント株式会社,net_assets_is,"3,358.928744百万円",3358.928744,百万円,FY2024,0.75,S100VMET,llm_direct
+日興アセットマネジメント株式会社,eps_is,"1口当たり純資産額 3,512.1円（2025年3月末）",3512.1,円,FY2024,0.3,S100VMET,llm_direct
+日興アセットマネジメント株式会社,dividend_is,0円,0.0,円,FY2024,0.74,S100VMEX,llm_direct
+日興アセットマネジメント株式会社,other,"24,735,902円",24735.902,百万円,FY2024,0.45,S100VMEX,llm_direct
+日興アセットマネジメント株式会社,belongs_to_industry,投資信託委託業,,,FY2024,0.3,S100VMF4,llm_direct
+日興スリートップ（隔月分配型）,other,信託金限度額：2兆円を限度,200000000.0,百万円,FY2024,0.95,S100VMER,llm_direct
+野村信託銀行株式会社,other,受託会社,,,FY2024,0.85,S100VMER,llm_direct
+ＪＰモルガン・アセット・マネジメント（ＵＫ）リミテッド（投資一任）,other,投資顧問会社,,,FY2024,0.85,S100VMER,llm_direct
+UNITEDHEALTH GROUP INC,other,投資比率 1.40%（株式・ヘルスケア）,1.4,%,FY2024,0.55,S100VMER,llm_direct
+UNITEDHEALTH GROUP INC,operates_in,アメリカ,,,FY2024,0.85,S100VMER,llm_direct
+ACCENTURE PLC-CL A,other,投資比率 1.34%（株式・ソフトウェア・サービス）,1.34,%,FY2024,0.55,S100VMER,llm_direct
+ACCENTURE PLC-CL A,operates_in,アイルランド,,,FY2024,0.85,S100VMER,llm_direct
+RELX PLC,other,投資比率 1.21%（株式・商業・専門サービス）,1.21,%,FY2024,0.55,S100VMER,llm_direct
+RELX PLC,operates_in,イギリス,,,FY2024,0.85,S100VMER,llm_direct
+グローバル株式トップフォーカス,total_assets_is,"3,322,246,381円",3322.0,百万円,FY2024,0.9,S100VMET,llm_direct
+グローバル株式トップフォーカス,net_assets_is,"3,292,150,981円",3292.0,百万円,FY2024,0.9,S100VMET,llm_direct
+当ファンド,other,信託報酬率（年率）0.66％（税抜0.60％）,0.66,%,FY2024,0.9,S100VMEZ,llm_direct
+投資対象とする投資信託証券,other,組入れに係る信託報酬率（年率）0.35％程度,0.35,%,FY2024,0.85,S100VMEZ,llm_direct
+ＤＣ世界株式・厳選投資ファンド,other,投資証券97.78%,97.78,%,FY2024,0.9,S100VMEZ,llm_direct
+【DC世界株式・厳選投資ファンド】,total_assets_is,"934,855,841円（第3期：2024年3月15日現在）",934.855841,百万円,FY2024,0.9,S100VMEZ,llm_direct
+【DC世界株式・厳選投資ファンド】,net_assets_is,"922,726,662円（第3期）",922.726662,百万円,FY2024,0.9,S100VMEZ,llm_direct
+【DC世界株式・厳選投資ファンド】,operating_profit_is,"176,256,065円（第3期）",176.256065,百万円,FY2024,0.95,S100VMEZ,llm_direct
+【DC世界株式・厳選投資ファンド】,net_income_is,"176,256,065円（第3期）",176.256065,百万円,FY2024,0.95,S100VMEZ,llm_direct
+米国超長期プライム社債マザーファンド,other,主として、米ドル建ての債券に投資を行ない、インカム収益の確保と信託財産の成長を目指して運用,,,FY2024,0.55,S100VMF4,llm_direct
+米国超長期プライム社債マザーファンド,total_assets_is,"6,612,773,682",6612773.682,百万円,FY2024,0.85,S100VMF4,llm_direct
+米国超長期プライム社債ファンド（１年決算型）,forecast_revenue,—,,,FY2024,0.0,S100VMF4,llm_direct
+米国超長期プライム社債ファンド（１年決算型）,forecast_profit,—,,,FY2024,0.0,S100VMF4,llm_direct
+米国超長期プライム社債ファンド（１年決算型）,total_assets_is,"7,596,777,333",7596777.333,百万円,FY2024,0.95,S100VMF4,llm_direct
+米国超長期プライム社債ファンド（１年決算型）,segment_revenue,98.59,98.59,%,FY2024,0.85,S100VMF4,llm_direct
+株式会社 あみやき亭,other,"従業員数 472名、平均臨時雇用者数 1,786名",472.0,名,FY2024,0.8,S100VW42,llm_direct
+株式会社 あみやき亭,has_officer,従業員（就業人員、出向者含む）,0.0,,FY2024,0.2,S100VW42,llm_direct
+株式会社 あみやき亭,has_segment,焼肉事業,0.0,,FY2024,0.6,S100VW42,llm_direct
+株式会社 あみやき亭,revenue_is,"9,778百万円",9778.0,百万円,FY2024,0.9,S100VW42,llm_direct
+株式会社 あみやき亭,net_income_is,当期純利益 295百万円,295.0,百万円,FY2024,0.9,S100VW42,llm_direct
+株式会社 あみやき亭,net_assets_is,"純資産額 3,145百万円",3145.0,百万円,FY2024,0.9,S100VW42,llm_direct
+株式会社 あみやき亭,total_assets_is,"総資産額 5,743百万円",5743.0,百万円,FY2024,0.9,S100VW42,llm_direct
+株式会社 あみやき亭,operating_profit_is,7.7％（前期は6.9％）,7.7,％,FY2024,0.6,S100VW42,llm_direct
+株式会社 あみやき亭,risk_factor,GHG排出削減規制が強化された場合、対応費用が増加,,,FY2024,0.72,S100VW42,llm_direct
+株式会社 あみやき亭,esg_initiative,店舗等の省エネルギー化により、GHG排出量削減,,,FY2024,0.72,S100VW42,llm_direct
+株式会社 あみやき亭,segment_revenue,"22,366百万円",22366.0,百万円,FY2024,0.98,S100VW42,llm_direct
+株式会社 あみやき亭,segment_profit,—,,,FY2024,0.0,S100VW42,llm_direct
+株式会社 あみやき亭,dividend_is,691百万円,691.0,百万円,FY2024,0.9,S100VW42,llm_direct
+焼肉事業,segment_revenue,"5,624",5624.0,百万円,FY2024,0.92,S100VW42,llm_direct
+焼肉事業,revenue_change,109.4,109.4,%,FY2024,0.9,S100VW42,llm_direct
+焼肉事業,revenue_is,"22,366百万円",22366.0,百万円,FY2024,0.95,S100VW42,llm_direct
+株式会社あみやき亭,has_segment,焼肉事業,,,FY2024,0.72,S100VW42,llm_direct
+株式会社あみやき亭,segment_revenue,焼肉事業,22366.0,百万円,FY2024,0.95,S100VW42,llm_direct
+株式会社あみやき亭,operates_in,中部地区,,,FY2024,0.78,S100VW42,llm_direct
+株式会社あみやき亭,revenue_change,7.7％（前期は6.9％）,7.7,%,FY2024,0.78,S100VW42,llm_direct
+株式会社あみやき亭,other,売上高経常利益率（2021年3月期：△4.6％）,-4.6,%,FY2024,0.7,S100VW42,llm_direct
+株式会社あみやき亭,revenue_is,"合計 35,332",35332.0,百万円,FY2024,0.85,S100VW42,llm_direct
+株式会社あみやき亭,acquires,クーデションカンパニー株式会社の全株式を取得し子会社化,,,FY2024,0.7,S100VW42,llm_direct
+株式会社スエヒロレストランシステム,belongs_to_industry,焼肉事業／レストラン事業／その他の事業,,,FY2024,0.4,S100VW42,llm_direct
+株式会社スエヒロレストランシステム,has_segment,焼肉事業,,,FY2024,0.9,S100VW42,llm_direct
+株式会社スエヒロレストランシステム,other,議決権の所有割合：100％,100.0,%,FY2024,0.86,S100VW42,llm_direct
+株式会社杉江商事,operates_in,東京都江東区,,,FY2024,0.7,S100VW42,llm_direct
+株式会社杉江商事,other,3百万円,3.0,百万円,FY2024,0.6,S100VW42,llm_direct
+株式会社杉江商事,has_segment,焼肉事業,,,FY2024,0.75,S100VW42,llm_direct
+株式会社ニュールック,operates_in,神奈川県大和市,,,FY2024,0.7,S100VW42,llm_direct
+株式会社ニュールック,segment_revenue,焼肉事業,20.0,百万円,FY2024,0.4,S100VW42,llm_direct
+株式会社ニュールック,has_segment,焼肉事業,,,FY2024,0.55,S100VW42,llm_direct
+株式会社ニュールック,other,100％（連結子会社）,100.0,％,FY2024,0.6,S100VW42,llm_direct
+S100VW42,other,"焼肉事業 従業員数 336（1,556）名",336.0,名,FY2024,0.86,S100VW42,llm_direct
+S100VW42,has_segment,焼肉事業,,,FY2024,0.78,S100VW42,llm_direct
+S100VW42,segment_revenue,焼肉事業,4813.0,百万円,FY2024,0.93,S100VW42,llm_direct
+S100VW42,revenue_is,"合計 7,798",7798.0,百万円,FY2024,0.85,S100VW42,llm_direct
+株式会社　あみやき亭,other,管理職に占める女性労働者の割合（全労働者）7.5%,7.5,%,FY2024,0.92,S100VW42,llm_direct
+株式会社　あみやき亭,risk_factor,悪意あるサイバー攻撃等によるシステム障害で、個人情報や財務情報等が改ざん・流出する可能性,,,FY2024,0.83,S100VW42,llm_direct
+株式会社　スエヒロレストランシステム,other,管理職に占める女性労働者の割合（全労働者）6.7%,6.7,%,FY2024,0.92,S100VW42,llm_direct
+株式会社　杉江商事,other,男性労働者の育児休業取得率（全労働者）0.0%,0.0,%,FY2024,0.6,S100VW42,llm_direct
+株式会社　ニュールック,other,管理職に占める女性労働者の割合（正規雇用労働者）3.6%,3.6,%,FY2024,0.9,S100VW42,llm_direct
+合計,segment_revenue,"5,624",5624.0,百万円,FY2024,0.75,S100VW42,llm_direct
+合計,revenue_change,109.4,109.4,%,FY2024,0.85,S100VW42,llm_direct
+当社グループ,revenue_is,"35,332百万円",35332.0,百万円,FY2024,0.96,S100VW42,llm_direct
+当社グループ,revenue_change,6.2％増,6.2,％,FY2024,0.93,S100VW42,llm_direct
+当社グループ,operating_profit_is,"2,638百万円",2638.0,百万円,FY2024,0.96,S100VW42,llm_direct
+当社グループ,other,前年同期比18.8％増,18.8,％,FY2024,0.9,S100VW42,llm_direct
+当社グループ,net_income_is,"1,736百万円",1736.0,百万円,FY2024,0.96,S100VW42,llm_direct
+当社グループ,total_assets_is,"27,810百万円",27810.0,百万円,FY2024,0.92,S100VW42,llm_direct
+当社グループ,net_assets_is,"21,941百万円",21941.0,百万円,FY2024,0.92,S100VW42,llm_direct
+焼鳥事業,revenue_is,"3,705百万円",3705.0,百万円,FY2024,0.95,S100VW42,llm_direct
+焼鳥事業,revenue_change,前年同期比8.1％増,8.1,％,FY2024,0.9,S100VW42,llm_direct
+レストラン事業,revenue_is,"7,669百万円",7669.0,百万円,FY2024,0.95,S100VW42,llm_direct
+レストラン事業,revenue_change,前年同期比30.8％増,30.8,％,FY2024,0.9,S100VW42,llm_direct
+その他の事業,revenue_is,"1,591百万円",1591.0,百万円,FY2024,0.95,S100VW42,llm_direct
+その他の事業,revenue_change,前年同期比4.0％増,4.0,％,FY2024,0.9,S100VW42,llm_direct
+トヨタ,partners_with,パナソニック,,,FY2024,0.9,news_ロイター（想定）,news_llm
+トヨタ,competes_with,CATL,,,FY2024,0.7,news_ロイター（想定）,news_llm
+トヨタ,forecast_profit,利益率改善,,,FY2024,0.65,news_ロイター（想定）,news_llm
+トヨタ,forecast_revenue,コスト低減,,,FY2024,0.55,news_ロイター（想定）,news_llm
+トヨタ,guidance_change,2026年量産立ち上げリスク抑制,10.0,%（従来比）,FY2024,0.8,news_ロイター（想定）,news_llm
+トヨタ,operates_in,北米,,,FY2024,0.9,news_ロイター（想定）,news_llm
+トヨタ,partners_with,Microsoft系パートナー,,,FY2024,0.65,news_日経新聞（想定）,news_llm
+トヨタ,launches,車載ソフトの遠隔アップデート（OTA）,,,FY2024,0.7,news_日経新聞（想定）,news_llm
+トヨタ,forecast_revenue,継続課金型機能（運転支援/安全パック等）,,,FY2024,0.55,news_日経新聞（想定）,news_llm
+トヨタ,revenue_change,車載OTA対象台数,25.0,%,FY2024,0.75,news_日経新聞（想定）,news_llm
+トヨタ,risk_factor,為替/原材料変動,,,FY2024,0.6,news_日経新聞（想定）,news_llm
+トヨタ,operates_in,主要車種,,,FY2024,0.6,news_日経新聞（想定）,news_llm
+トヨタ,invests_in,米国電動化新拠点（トヨタ）,500000000.0,百万円,FY2024,0.8,news_ブルームバーグ（想定）,news_llm
+トヨタ,operates_in,米国,,,FY2024,0.85,news_ブルームバーグ（想定）,news_llm
+トヨタ,partners_with,ダイハツ/関連,,,FY2024,0.75,news_ブルームバーグ（想定）,news_llm
+トヨタ,supplies_to,デンソー,,,FY2024,0.7,news_ブルームバーグ（想定）,news_llm
+トヨタ,partners_with,デンソー,,,FY2024,0.7,news_マクロ＆マーケット（想定）,news_llm
+トヨタ,supplies_to,アイシン,,,FY2024,0.7,news_ブルームバーグ（想定）,news_llm
+トヨタ,partners_with,アイシン,,,FY2024,0.7,news_マクロ＆マーケット（想定）,news_llm
+トヨタ,partners_with,海外Tier1,,,FY2024,0.65,news_ブルームバーグ（想定）,news_llm
+トヨタ,risk_factor,設備投資負担による短期利益圧迫リスク,,,FY2024,0.7,news_ブルームバーグ（想定）,news_llm
+トヨタ,operates_in,欧州,,,FY2024,0.8,news_自動車産業通信（想定）,news_llm
+トヨタ,competes_with,VW,,,FY2024,0.7,news_自動車産業通信（想定）,news_llm
+トヨタ,competes_with,STELLANTIS,,,FY2024,0.7,news_自動車産業通信（想定）,news_llm
+トヨタ,partners_with,現地ディーラー,,,FY2024,0.75,news_自動車産業通信（想定）,news_llm
+トヨタ,revenue_change,欧州販売（4〜6月）,18.0,%,FY2024,0.65,news_自動車産業通信（想定）,news_llm
+トヨタ,risk_factor,燃料費の変動リスク,,,FY2024,0.6,news_自動車産業通信（想定）,news_llm
+トヨタ,risk_factor,電力価格の変動リスク,,,FY2024,0.6,news_自動車産業通信（想定）,news_llm
+トヨタ,operates_in,世界のサプライチェーン,,,FY2024,0.6,news_マクロ＆マーケット（想定）,news_llm
+トヨタ,competes_with,ホンダ,,,FY2024,0.6,news_マクロ＆マーケット（想定）,news_llm
+トヨタ,other,運転資本改善,20000.0,百万円,FY2024,0.55,news_マクロ＆マーケット（想定）,news_llm
+トヨタ,other,調達コスト（部材別）低下率,4.0,%,FY2024,0.5,news_マクロ＆マーケット（想定）,news_llm
+トヨタ,risk_factor,競合差（在庫圧縮）,,,FY2024,0.35,news_マクロ＆マーケット（想定）,news_llm
+パナソニック,supplies_to,トヨタ,,,FY2024,0.85,news_ロイター（想定）,news_llm
+デンソー,has_segment,車載ECU（電子制御ユニット）,,,FY2024,0.85,news_日刊自動車産業新聞,news_llm
+デンソー,forecast_profit,利益率改善,,,FY2024,0.6,news_日刊自動車産業新聞,news_llm
+デンソー,forecast_revenue,ADAS向け高機能ECU投資計画,42000.0,百万円,FY2024,0.85,news_日刊自動車産業新聞,news_llm
+デンソー,revenue_change,前年比,12.0,%,FY2024,0.85,news_日刊自動車産業新聞,news_llm
+デンソー,partners_with,SiC/車載ネットワーク部材サプライヤー各社,,,FY2024,0.6,news_日刊自動車産業新聞,news_llm
+デンソー,supplies_to,トヨタ,,,FY2024,0.75,news_日刊自動車産業新聞,news_llm
+デンソー,partners_with,トヨタ,,,FY2024,0.95,news_ロボティクス＆モビリティ通信,news_llm
+デンソー,supplies_to,トヨタ,,,FY2024,0.9,news_サプライチェーン・リサーチ,news_llm
+デンソー,competes_with,電装系大手（デンソー以外）,,,FY2024,0.55,news_日刊自動車産業新聞,news_llm
+デンソー,operates_in,中国,,,FY2024,0.85,news_電機・自動車ニュース,news_llm
+デンソー,operates_in,韓国,,,FY2024,0.85,news_電機・自動車ニュース,news_llm
+デンソー,supplies_to,中国の主要OEM,,,FY2024,0.7,news_電機・自動車ニュース,news_llm
+デンソー,supplies_to,韓国の主要OEM,,,FY2024,0.7,news_電機・自動車ニュース,news_llm
+デンソー,competes_with,ルネサス,,,FY2024,0.6,news_電機・自動車ニュース,news_llm
+デンソー,competes_with,マーレ,,,FY2024,0.6,news_電機・自動車ニュース,news_llm
+デンソー,forecast_profit,粗利率,0.5,pt,FY2024,0.65,news_電機・自動車ニュース,news_llm
+デンソー,forecast_revenue,アジア拠点稼働率,8.0,pt,FY2024,0.7,news_電機・自動車ニュース,news_llm
+デンソー,risk_factor,サプライヤー集中リスク,,,FY2024,0.6,news_電機・自動車ニュース,news_llm
+デンソー,has_segment,HV/EV向け電力変換制御（インバータ制御最適化）,,,FY2024,0.8,news_ロボティクス＆モビリティ通信,news_llm
+デンソー,other,故障診断精度向上（従来比+25%）,25.0,%（従来比）,FY2024,0.75,news_ロボティクス＆モビリティ通信,news_llm
+デンソー,other,量産検証完了時期（-1四半期）,-1.0,四半期,FY2024,0.8,news_ロボティクス＆モビリティ通信,news_llm
+デンソー,competes_with,電装系各社,,,FY2024,0.55,news_ロボティクス＆モビリティ通信,news_llm
+デンソー,supplies_to,自動車メーカー（主要顧客）,,,FY2024,0.62,news_自動車調達ウィークリー,news_llm
+デンソー,partners_with,複数調達先（サプライヤー）,,,FY2024,0.55,news_自動車調達ウィークリー,news_llm
+デンソー,operates_in,自動車メーカーの在庫調整局面における部品供給,,,FY2024,0.5,news_自動車調達ウィークリー,news_llm
+デンソー,risk_factor,生産計画の下振れリスク,,,FY2024,0.72,news_自動車調達ウィークリー,news_llm
+デンソー,other,部品供給の柔軟化（型番代替）,,,FY2024,0.78,news_自動車調達ウィークリー,news_llm
+デンソー,other,供給リードタイム短縮,10.0,日,FY2024,0.7,news_自動車調達ウィークリー,news_llm
+デンソー,risk_factor,競合の利益圧迫（在庫調整影響）,,,FY2024,0.48,news_自動車調達ウィークリー,news_llm
+デンソー,other,コスト削減目標引き上げ,-1.0,売上比（%相当）,FY2024,0.6,news_自動車調達ウィークリー,news_llm
+デンソー,partners_with,主要メーカー,,,FY2024,0.65,news_サプライチェーン・リサーチ,news_llm
+デンソー,supplies_to,グローバルOEM,,,FY2024,0.7,news_サプライチェーン・リサーチ,news_llm
+デンソー,competes_with,競合（調達分散を強める企業）,,,FY2024,0.6,news_サプライチェーン・リサーチ,news_llm
+デンソー,guidance_change,半導体調達戦略,20.0,percent,FY2024,0.8,news_サプライチェーン・リサーチ,news_llm
+デンソー,launches,代替部材・設計（ピン互換・ソフト差替）,,,FY2024,0.7,news_サプライチェーン・リサーチ,news_llm
+デンソー,risk_factor,量産停止リスク,,,FY2024,0.7,news_サプライチェーン・リサーチ,news_llm
+ソニー,competes_with,ウォルト・ディズニー,,,FY2024,0.75,news_ブルームバーグ（想定）,news_llm
+ソニー,operates_in,北米,,,FY2024,0.8,news_ブルームバーグ（想定）,news_llm
+ソニー,operating_profit_is,EBITDA,6.0,%,FY2024,0.6,news_ブルームバーグ（想定）,news_llm
+三菱UFJフィナンシャル・グループ,partners_with,IBM,,,FY2024,0.95,news_日経速報（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,other,通期コスト削減目標（上方修正）,12000.0,百万円,FY2024,0.9,news_日経速報（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,other,通期コスト削減目標（合計）,75000.0,百万円,FY2024,0.9,news_日経速報（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,revenue_change,オペレーション費（前年同期比）,-0.038,,FY2024,0.85,news_日経速報（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,risk_factor,損失率,-0.02,%ポイント,FY2024,0.85,news_日経速報（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,partners_with,米国大手資産運用会社（名称は一部非開示）,,,FY2024,0.85,news_QUICK Market News（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,competes_with,野村ホールディングス,,,FY2024,0.7,news_QUICK Market News（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,other,クレジット系オルタナ商品,,,FY2024,0.55,news_QUICK Market News（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,revenue_is,手数料収入,,,FY2024,0.55,news_QUICK Market News（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,revenue_change,手数料収入（想定）,9.0,%（前年同期比）,FY2024,0.6,news_QUICK Market News（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,revenue_change,運用残高,12.4,%（前年同期比）,FY2024,0.75,news_QUICK Market News（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,revenue_is,運用残高,18000000.0,百万円,FY2024,0.75,news_QUICK Market News（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ,risk_factor,流動性リスク,,,FY2024,0.7,news_QUICK Market News（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ（MUFG）,competes_with,三井住友フィナンシャルグループ,,,FY2024,0.78,news_ロイター（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ（MUFG）,forecast_profit,信用コスト抑制,,,FY2024,0.6,news_ロイター（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ（MUFG）,risk_factor,金利環境,,,FY2024,0.55,news_ロイター（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ（MUFG）,dividend_is,自己株買い,300000000.0,JPY百万円,FY2024,0.7,news_銀行週報（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ（MUFG）,guidance_change,自己株買い上限増額,60000000000.0,JPY百万円,FY2024,0.7,news_銀行週報（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ（MUFG）,other,ROE目標（2027年度）,,,FY2024,0.75,news_銀行週報（フィクション）,news_llm
+三菱UFJフィナンシャル・グループ（MUFG）,other,普通株式等Tier1比率,,,FY2024,0.65,news_銀行週報（フィクション）,news_llm
+MUFG,invests_in,GX関連融資,100000000.0,百万円,FY2024,0.85,news_ブルームバーグ（フィクション）,news_llm
+MUFG,invests_in,2025年4〜6月GX関連融資実行額,245000.0,百万円,FY2024,0.9,news_ブルームバーグ（フィクション）,news_llm
+MUFG,revenue_change,前年同期比,26.0,%,FY2024,0.9,news_ブルームバーグ（フィクション）,news_llm
+MUFG,operates_in,再エネ・省エネ向け融資,62.0,%,FY2024,0.8,news_ブルームバーグ（フィクション）,news_llm
+スマホゲーム大手（競合）,competes_with,任天堂,,,FY2024,0.55,news_日経クロスメディア（仮想）,news_llm
+ソフトバンクグループ,partners_with,JERA,,,FY2024,0.86,news_日経ビジネス（想定）,news_llm
+ソフトバンクグループ,operates_in,AWS/Azure,,,FY2024,0.7,news_日経ビジネス（想定）,news_llm
+ソフトバンクグループ,competes_with,楽天モバイル,,,FY2024,0.75,news_日経ビジネス（想定）,news_llm
+ソフトバンクグループ,competes_with,NTTデータ,,,FY2024,0.75,news_日経ビジネス（想定）,news_llm
+ソフトバンクグループ,invests_in,AIデータセンター,15.0,pct_yoy,FY2024,0.82,news_日経ビジネス（想定）,news_llm
+ソフトバンクグループ,other,粗利率,2.0,pt,FY2024,0.7,news_日経ビジネス（想定）,news_llm
+ソフトバンクグループ,operates_in,アジア地域,,,FY2024,0.85,news_マネージャーニュース（想定）,news_llm
+ソフトバンクグループ,competes_with,中国系キャリア,,,FY2024,0.55,news_マネージャーニュース（想定）,news_llm
+ソフトバンクグループ,supplies_to,大手メーカー,,,FY2024,0.45,news_マネージャーニュース（想定）,news_llm
+ソフトバンクグループ,dividend_is,配当,,,FY2024,0.01,news_マネージャーニュース（想定）,news_llm
+ソフトバンクグループ,other,料金改定・端末分割条件見直し,,,FY2024,0.85,news_マネージャーニュース（想定）,news_llm
+ソフトバンクグループ,other,月次ARPU,6.0,percent,FY2024,0.8,news_マネージャーニュース（想定）,news_llm
+ソフトバンクグループ,other,解約率,-1.2,percentage_point,FY2024,0.75,news_マネージャーニュース（想定）,news_llm
+ソフトバンクグループ,risk_factor,価格競争による利益率圧迫,,,FY2024,0.6,news_マネージャーニュース（想定）,news_llm
+ソフトバンクグループ,other,端末調達の分散,,,FY2024,0.7,news_マネージャーニュース（想定）,news_llm
+ソフトバンクグループ,risk_factor,キャッシュ創出力の持続性,,,FY2024,0.55,news_マネージャーニュース（想定）,news_llm
+NTTデータ,operates_in,SI/運用,,,FY2024,0.6,news_テック・ビジネス（仮想）,news_llm
+Zホールディングス,partners_with,LINEヤフー,,,FY2024,0.78,news_ロイター（想定）,news_llm
+Zホールディングス,competes_with,メルカリ広告,,,FY2024,0.7,news_ロイター（想定）,news_llm
+Zホールディングス,competes_with,サイバーエージェント系代理店,,,FY2024,0.65,news_ロイター（想定）,news_llm
+Zホールディングス,forecast_revenue,2025年上期GMV,12.0,％,FY2024,0.75,news_ロイター（想定）,news_llm
+Zホールディングス,operating_profit_is,営業損益黒字化継続,,,FY2024,0.66,news_ロイター（想定）,news_llm
+ソフトバンクG,operates_in,米国,,,FY2024,0.62,news_ブルームバーグ（想定）,news_llm
+ソフトバンクG,invests_in,Vision Fund関連スタートアップ群,,,FY2024,0.45,news_ブルームバーグ（想定）,news_llm
+ソフトバンクG,invests_in,AIインフラ企業群,,,FY2024,0.5,news_ブルームバーグ（想定）,news_llm
+ソフトバンクG,partners_with,他投資家（ファンド）,,,FY2024,0.5,news_ブルームバーグ（想定）,news_llm
+ソフトバンクG,guidance_change,投資関連損益レンジ（2025年4〜6月期）,,,FY2024,0.58,news_ブルームバーグ（想定）,news_llm
+ソフトバンクG,risk_factor,持分比率の希薄化,,,FY2024,0.6,news_ブルームバーグ（想定）,news_llm
+ソフトバンクG,forecast_revenue,AIインフラ企業群の売上,35.0,percent,FY2024,0.55,news_ブルームバーグ（想定）,news_llm
+SBテクノロジー,partners_with,KDDI,,,FY2024,0.9,news_ITmedia（想定）,news_llm
+SBテクノロジー,partners_with,NEC,,,FY2024,0.9,news_ITmedia（想定）,news_llm
+SBテクノロジー,competes_with,NTTコムウェア,,,FY2024,0.75,news_ITmedia（想定）,news_llm
+SBテクノロジー,forecast_revenue,2025年上期 契約売上,20.0,percent,FY2024,0.7,news_ITmedia（想定）,news_llm
+SBテクノロジー,other,導入社数,18.0,percent,FY2024,0.7,news_ITmedia（想定）,news_llm
+SBテクノロジー,launches,生成AI活用の運用支援（月額課金モデル）,,,FY2024,0.65,news_ITmedia（想定）,news_llm
+キーエンス,competes_with,オムロン,,,FY2024,0.75,news_ロボット・FA経済（仮）,news_llm
+キーエンス,competes_with,オムロン,,,FY2024,0.72,news_製造DXウィークリー（仮）,news_llm
+キーエンス,competes_with,オムロン,,,FY2024,0.85,news_商社・調達レポート（仮）,news_llm
+キーエンス,competes_with,オムロン,,,FY2024,0.7,news_グローバルFAニュース（仮）,news_llm
+キーエンス,competes_with,キーサイト,,,FY2024,0.75,news_ロボット・FA経済（仮）,news_llm
+キーエンス,partners_with,ファナック,,,FY2024,0.7,news_ロボット・FA経済（仮）,news_llm
+キーエンス,launches,画像処理型センサとレーザ変位計の新製品群,,,FY2024,0.85,news_ロボット・FA経済（仮）,news_llm
+キーエンス,operates_in,半導体装置周辺工程,,,FY2024,0.75,news_ロボット・FA経済（仮）,news_llm
+キーエンス,forecast_revenue,海外売上（前年同期比）,12.0,%,FY2024,0.7,news_ロボット・FA経済（仮）,news_llm
+キーエンス,other,海外売上比率,61.0,%,FY2024,0.7,news_ロボット・FA経済（仮）,news_llm
+キーエンス,competes_with,東芝テック,,,FY2024,0.72,news_FAタイムズ（仮）,news_llm
+キーエンス,partners_with,SI/FAパートナー（例：大手盤メーカー）,,,FY2024,0.68,news_FAタイムズ（仮）,news_llm
+キーエンス,operates_in,物流・倉庫の自動化向け,,,FY2024,0.74,news_FAタイムズ（仮）,news_llm
+キーエンス,launches,バーコード/2Dコードリーダと位置決めセンサ,,,FY2024,0.75,news_FAタイムズ（仮）,news_llm
+キーエンス,other,製造リードタイム,20.0,percent,FY2024,0.62,news_FAタイムズ（仮）,news_llm
+キーエンス,other,受注後の立上げ期間,15.0,percent,FY2024,0.62,news_FAタイムズ（仮）,news_llm
+キーエンス,competes_with,バルーフ,,,FY2024,0.72,news_製造DXウィークリー（仮）,news_llm
+キーエンス,launches,現場適用テンプレート,,,FY2024,0.78,news_製造DXウィークリー（仮）,news_llm
+キーエンス,forecast_profit,検査ライン導入期間短縮,0.0,百万円,FY2024,0.45,news_製造DXウィークリー（仮）,news_llm
+キーエンス,other,現場完結型戦略,,,FY2024,0.7,news_製造DXウィークリー（仮）,news_llm
+キーエンス,other,継続受注（保守・追加導入）,,,FY2024,0.6,news_製造DXウィークリー（仮）,news_llm
+キーエンス,operates_in,半導体・光学関連部材の調達（サプライチェーン管理）,,,FY2024,0.72,news_商社・調達レポート（仮）,news_llm
+キーエンス,partners_with,部材メーカー（複数）,,,FY2024,0.45,news_商社・調達レポート（仮）,news_llm
+キーエンス,risk_factor,半導体・光学関連部材の調達リスク,,,FY2024,0.8,news_商社・調達レポート（仮）,news_llm
+キーエンス,guidance_change,供給制約時も通常出荷維持,,,FY2024,0.6,news_商社・調達レポート（仮）,news_llm
+キーエンス,partners_with,欧州・北米の販売代理店（社名は記事未記載）,,,FY2024,0.55,news_グローバルFAニュース（仮）,news_llm
+キーエンス,partners_with,共同販促を行う販売代理店（技術デモ・検証支援）,,,FY2024,0.55,news_グローバルFAニュース（仮）,news_llm
+キーエンス,competes_with,ローカルの計測機器商社（社名は記事未記載）,,,FY2024,0.6,news_グローバルFAニュース（仮）,news_llm
+キーエンス,competes_with,テクトロニクス,,,FY2024,0.7,news_グローバルFAニュース（仮）,news_llm
+キーエンス,forecast_revenue,代理店主導の案件化率,1.3,倍,FY2024,0.45,news_グローバルFAニュース（仮）,news_llm
+リクルート,partners_with,代理店（HRテック販売網）,,,FY2024,0.75,news_東洋経済オンライン（想定）,news_llm
+リクルート,competes_with,マイナビ,,,FY2024,0.7,news_東洋経済オンライン（想定）,news_llm
+リクルート,competes_with,マイナビ,,,FY2024,0.7,news_日経クロステック（想定）,news_llm
+リクルート,competes_with,エン・ジャパン,,,FY2024,0.7,news_東洋経済オンライン（想定）,news_llm
+リクルート,competes_with,LIFULL（HOME’S）,,,FY2024,0.85,news_ITmedia NEWS（想定）,news_llm
+リクルート,partners_with,不動産会社（販売パートナー）,,,FY2024,0.7,news_ITmedia NEWS（想定）,news_llm
+リクルート,revenue_change,問い合わせ当たり広告費（前年同月比）,-8.0,%,FY2024,0.75,news_ITmedia NEWS（想定）,news_llm
+リクルート,revenue_change,内見予約率（改善）,4.0,%,FY2024,0.75,news_ITmedia NEWS（想定）,news_llm
+リクルート,partners_with,大手OTA（外部OTA）,,,FY2024,0.75,news_ロイター（想定）,news_llm
+リクルート,competes_with,楽天トラベル,,,FY2024,0.7,news_ロイター（想定）,news_llm
+リクルート,forecast_profit,取引あたり粗利率（2025年4〜6月）,15.0,pt,FY2024,0.6,news_ロイター（想定）,news_llm
+リクルート,guidance_change,OTA連携の再編（手数料構造の見直し）,,,FY2024,0.65,news_ロイター（想定）,news_llm
+リクルート,partners_with,生成AI,,,FY2024,0.6,news_日経クロステック（想定）,news_llm
+リクルート,competes_with,ビズリーチ,,,FY2024,0.7,news_日経クロステック（想定）,news_llm
+リクルート,revenue_change,審査の人手比率,-15.0,percent,FY2024,0.6,news_日経クロステック（想定）,news_llm
+リクルート,revenue_change,差し戻し率,-10.0,percent,FY2024,0.6,news_日経クロステック（想定）,news_llm
+リクルート,risk_factor,誤判定時のリスク管理,,,FY2024,0.5,news_日経クロステック（想定）,news_llm
+Indeed運営,revenue_change,2025年4〜6月の採用関連売上,12.0,percent,FY2024,0.65,news_東洋経済オンライン（想定）,news_llm
+東京エレクトロン,competes_with,ASML,,,FY2024,0.78,news_日本経済新聞（想定）,news_llm
+東京エレクトロン,partners_with,ASML,,,FY2024,0.55,news_半導体タイムズ（想定）,news_llm
+東京エレクトロン,supplies_to,TSMC,,,FY2024,0.6,news_日本経済新聞（想定）,news_llm
+東京エレクトロン,supplies_to,TSMC,,,FY2024,0.7,news_ファクトセット・マーケットレポート（想定）,news_llm
+東京エレクトロン,supplies_to,Samsung Electronics,,,FY2024,0.6,news_日本経済新聞（想定）,news_llm
+東京エレクトロン,partners_with,Samsung Electronics,,,FY2024,0.6,news_ファクトセット・マーケットレポート（想定）,news_llm
+東京エレクトロン,supplies_to,SK hynix,,,FY2024,0.6,news_日本経済新聞（想定）,news_llm
+東京エレクトロン,operates_in,アジア拠点,,,FY2024,0.45,news_日本経済新聞（想定）,news_llm
+東京エレクトロン,competes_with,Lam Research,,,FY2024,0.8,news_日刊工業新聞（想定）,news_llm
+東京エレクトロン,operates_in,北米,,,FY2024,0.85,news_日刊工業新聞（想定）,news_llm
+東京エレクトロン,launches,装置稼働率改善メニュー,,,FY2024,0.85,news_日刊工業新聞（想定）,news_llm
+東京エレクトロン,segment_revenue,サブスク型売上,,,FY2024,0.55,news_日刊工業新聞（想定）,news_llm
+東京エレクトロン,revenue_is,主要顧客保守契約,1.3,x（2024年度比）,FY2024,0.8,news_日刊工業新聞（想定）,news_llm
+東京エレクトロン,launches,次世代プロセス向け新型成膜装置,,,FY2024,0.85,news_半導体タイムズ（想定）,news_llm
+東京エレクトロン,partners_with,Applied Materials,,,FY2024,0.55,news_半導体タイムズ（想定）,news_llm
+東京エレクトロン,segment_revenue,売上単価・受注継続性（改良型採用継続）,,百万円,FY2024,0.4,news_半導体タイムズ（想定）,news_llm
+東京エレクトロン,risk_factor,装置単体の性能競争,,,FY2024,0.5,news_半導体タイムズ（想定）,news_llm
+東京エレクトロン,partners_with,主要サプライヤー各社（石英部材・高耐久コンポーネント）,,,FY2024,0.72,news_ロイター（想定）,news_llm
+東京エレクトロン,competes_with,日本製装置メーカー（競合）,,,FY2024,0.55,news_ロイター（想定）,news_llm
+東京エレクトロン,risk_factor,主要部材の調達遅延リスク,,,FY2024,0.7,news_ロイター（想定）,news_llm
+東京エレクトロン,operates_in,設備投資局面（納期遵守が評価される領域）,,,FY2024,0.4,news_ロイター（想定）,news_llm
+東京エレクトロン,forecast_revenue,2025年上期 売上高（上方修正）,,,FY2024,0.7,news_ファクトセット・マーケットレポート（想定）,news_llm
+東京エレクトロン,revenue_change,2025年上期 売上高増減率,5.0,%,FY2024,0.7,news_ファクトセット・マーケットレポート（想定）,news_llm
+東京エレクトロン,forecast_profit,粗利率,1.2,ポイント,FY2024,0.65,news_ファクトセット・マーケットレポート（想定）,news_llm
+東京エレクトロン,risk_factor,米欧向け地政学リスク→輸送コスト増,,,FY2024,0.7,news_ファクトセット・マーケットレポート（想定）,news_llm
+東京エレクトロン,risk_factor,為替感応度管理,,,FY2024,0.65,news_ファクトセット・マーケットレポート（想定）,news_llm
+ASML,competes_with,東京エレクトロン,,,FY2024,0.45,news_半導体タイムズ（想定）,news_llm
+Applied Materials,competes_with,東京エレクトロン,,,FY2024,0.45,news_半導体タイムズ（想定）,news_llm
+伊藤忠商事,partners_with,三菱商事,,,FY2024,0.72,news_日経エネルギー（想定）,news_llm
+伊藤忠商事,competes_with,中東の既存資源会社,,,FY2024,0.65,news_日経エネルギー（想定）,news_llm
+伊藤忠商事,other,LNGおよび発電燃料,190000.0,"万トン相当（原文：1,900万トン相当）",FY2024,0.78,news_日経エネルギー（想定）,news_llm
+伊藤忠商事,revenue_change,LNG・発電燃料の長期調達対象数量,12.0,%,FY2024,0.8,news_日経エネルギー（想定）,news_llm
+伊藤忠商事,risk_factor,燃料コストの変動,,,FY2024,0.6,news_日経エネルギー（想定）,news_llm
+伊藤忠商事,operates_in,中東,,,FY2024,0.62,news_日経エネルギー（想定）,news_llm
+伊藤忠商事,partners_with,住友商事,,,FY2024,0.95,news_テキスタイル・ビジネス（想定）,news_llm
+伊藤忠商事,partners_with,住友商事,,,FY2024,0.9,news_テキスタイル・ビジネス（想定）,news_llm
+伊藤忠商事,operates_in,アパレルの需要予測・在庫最適化,,,FY2024,0.8,news_テキスタイル・ビジネス（想定）,news_llm
+伊藤忠商事,revenue_change,運転資金圧縮効果,-8.0,%,FY2024,0.75,news_テキスタイル・ビジネス（想定）,news_llm
+伊藤忠商事,other,補充リードタイム短縮,15.0,%,FY2024,0.85,news_テキスタイル・ビジネス（想定）,news_llm
+伊藤忠商事,risk_factor,競合他商社とのデータ連携是非,,,FY2024,0.55,news_テキスタイル・ビジネス（想定）,news_llm
+伊藤忠商事,partners_with,国内SI大手（主要外部ベンダー）,,,FY2024,0.7,news_ITメディア（想定）,news_llm
+伊藤忠商事,competes_with,丸紅,,,FY2024,0.6,news_ITメディア（想定）,news_llm
+伊藤忠商事,other,基幹系刷新・データ活用（中期コスト削減目標）,3.0,年率%,FY2024,0.85,news_ITメディア（想定）,news_llm
+伊藤忠商事,other,請求・受発注処理の自動化適用（取引比率）,45.0,%（取引）,FY2024,0.8,news_ITメディア（想定）,news_llm
+伊藤忠商事,other,請求・受発注処理の処理時間短縮,22.0,%（短縮）,FY2024,0.8,news_ITメディア（想定）,news_llm
+伊藤忠,partners_with,複数航路・複数保管拠点,,,FY2024,0.6,news_物流新時代（想定）,news_llm
+伊藤忠,competes_with,三井物産,,,FY2024,0.85,news_物流新時代（想定）,news_llm
+伊藤忠,revenue_change,関連サービス売上,7.0,同比%（前年同期比）,FY2024,0.8,news_物流新時代（想定）,news_llm
+伊藤忠,risk_factor,港湾リスク（出荷遅延）,,,FY2024,0.75,news_物流新時代（想定）,news_llm
+伊藤忠,partners_with,大手デベロッパー,,,FY2024,0.65,news_不動産トゥデイ（想定）,news_llm
+伊藤忠,competes_with,三菱地所,,,FY2024,0.8,news_不動産トゥデイ（想定）,news_llm
+伊藤忠,invests_in,建設・不動産領域の再開発パイプライン,420000000.0,百万円,FY2024,0.8,news_不動産トゥデイ（想定）,news_llm
+伊藤忠,revenue_change,前年計画比,15.0,%,FY2024,0.7,news_不動産トゥデイ（想定）,news_llm
+伊藤忠,operates_in,建設・不動産領域（再開発）,,,FY2024,0.75,news_不動産トゥデイ（想定）,news_llm
+NTT,invests_in,国内データセンター電力・計算資源増強（2025年上期前倒し）,14800000000.0,JPY,FY2024,0.8,news_日経クロステック（仮想）,news_llm
+NTT,revenue_is,クラウド事業（NTTコミュニケーションズ等）,,,FY2024,0.45,news_日経クロステック（仮想）,news_llm
+NTT,partners_with,NEC,,,FY2024,0.7,news_日経クロステック（仮想）,news_llm
+NTT,partners_with,NEC,,,FY2024,0.88,news_通信業界レポート（仮想）,news_llm
+NTT,supplies_to,NEC,,,FY2024,0.6,news_ロイター（仮想）,news_llm
+NTT,partners_with,日立製作所,,,FY2024,0.7,news_日経クロステック（仮想）,news_llm
+NTT,partners_with,関西電力,,,FY2024,0.65,news_日経クロステック（仮想）,news_llm
+NTT,partners_with,富士通,,,FY2024,0.88,news_通信業界レポート（仮想）,news_llm
+NTT,partners_with,ノキア,,,FY2024,0.88,news_通信業界レポート（仮想）,news_llm
+NTT,partners_with,ファーウェイ,,,FY2024,0.7,news_通信業界レポート（仮想）,news_llm
+NTT,competes_with,KDDI,,,FY2024,0.82,news_通信業界レポート（仮想）,news_llm
+NTT,competes_with,KDDI,,,FY2024,0.6,news_ロイター（仮想）,news_llm
+NTT,competes_with,ソフトバンク,,,FY2024,0.82,news_通信業界レポート（仮想）,news_llm
+NTT,other,特定ベンダ依存度,-13.0,%,FY2024,0.85,news_通信業界レポート（仮想）,news_llm
+NTT,other,稼働率,99.99,%,FY2024,0.8,news_通信業界レポート（仮想）,news_llm
+NTT,other,保守費削減率,-8.0,%,FY2024,0.78,news_通信業界レポート（仮想）,news_llm
+NTT,risk_factor,地域規制順守,,,FY2024,0.6,news_通信業界レポート（仮想）,news_llm
+NTT,partners_with,Microsoft,,,FY2024,0.9,news_テック・ビジネス（仮想）,news_llm
+NTT,other,法人向け生成AI基盤（共同販売）,,,FY2024,0.75,news_テック・ビジネス（仮想）,news_llm
+NTT,forecast_revenue,契約件数（初期6カ月）,320.0,件,FY2024,0.7,news_テック・ビジネス（仮想）,news_llm
+NTT,revenue_change,平均契約単価,18.0,%,FY2024,0.7,news_テック・ビジネス（仮想）,news_llm
+NTT,competes_with,日立系,,,FY2024,0.55,news_テック・ビジネス（仮想）,news_llm
+NTT,competes_with,野村総研系,,,FY2024,0.55,news_テック・ビジネス（仮想）,news_llm
+NTT,supplies_to,NTTデータ,,,FY2024,0.75,news_テック・ビジネス（仮想）,news_llm
+NTT,other,継続課金比率引き上げ,,,FY2024,0.7,news_テック・ビジネス（仮想）,news_llm
+NTT,dividend_is,2025年度株主還元方針（維持）,,,FY2024,0.7,news_ロイター（仮想）,news_llm
+NTT,invests_in,自社株買い（追加）,90000.0,百万円,FY2024,0.8,news_ロイター（仮想）,news_llm
+NTT,operating_profit_is,フリーキャッシュフロー（改善）,205000.0,百万円,FY2024,0.55,news_ロイター（仮想）,news_llm
+NTT,revenue_change,フリーキャッシュフロー（前年比）,0.14,,FY2024,0.55,news_ロイター（仮想）,news_llm
+NTT,supplies_to,日立,,,FY2024,0.6,news_ロイター（仮想）,news_llm
+NTT,supplies_to,国内電力各社,,,FY2024,0.55,news_ロイター（仮想）,news_llm
+NTT,partners_with,トレンドマイクロ,,,FY2024,0.86,news_セキュリティウォッチ（仮想）,news_llm
+NTT,partners_with,国内SI企業,,,FY2024,0.7,news_セキュリティウォッチ（仮想）,news_llm
+NTT,partners_with,通信回線事業者,,,FY2024,0.7,news_セキュリティウォッチ（仮想）,news_llm
+NTT,guidance_change,SOC連携,4.0,週,FY2024,0.78,news_セキュリティウォッチ（仮想）,news_llm
+NTT,revenue_change,受注,22.0,％,FY2024,0.8,news_セキュリティウォッチ（仮想）,news_llm
+NTT,competes_with,競合各社,,,FY2024,0.45,news_セキュリティウォッチ（仮想）,news_llm
+信越化学工業,competes_with,東レ,,,FY2024,0.75,news_日刊プラスチック・電子材料,news_llm
+信越化学工業,competes_with,住友化学,,,FY2024,0.75,news_日刊プラスチック・電子材料,news_llm
+信越化学工業,competes_with,住友化学,,,FY2024,0.6,news_ファクト・マーケット速報,news_llm
+信越化学工業,operates_in,アジア（顧客）,,,FY2024,0.7,news_日刊プラスチック・電子材料,news_llm
+信越化学工業,invests_in,設備投資,,,FY2024,0.6,news_日刊プラスチック・電子材料,news_llm
+信越化学工業,risk_factor,シリカ系原材料コスト,,,FY2024,0.7,news_日刊プラスチック・電子材料,news_llm
+信越化学工業,risk_factor,設備投資負担,,,FY2024,0.6,news_日刊プラスチック・電子材料,news_llm
+信越化学工業,partners_with,台湾の半導体製造装置・材料関連企業（具体名なし）,,,FY2024,0.62,news_電子デバイス・レポート,news_llm
+信越化学工業,operates_in,台湾,,,FY2024,0.75,news_電子デバイス・レポート,news_llm
+信越化学工業,has_segment,半導体製造用フッ素系材料,,,FY2024,0.7,news_電子デバイス・レポート,news_llm
+信越化学工業,other,製造プロセス適合性評価と量産導入前倒し,,,FY2024,0.82,news_電子デバイス・レポート,news_llm
+信越化学工業,launches,量産導入の前倒し,,,FY2024,0.8,news_電子デバイス・レポート,news_llm
+信越化学工業,competes_with,同業他社（具体名なし）,,,FY2024,0.6,news_電子デバイス・レポート,news_llm
+信越化学工業,risk_factor,立上げ初期の償却負担,,,FY2024,0.75,news_電子デバイス・レポート,news_llm
+信越化学工業,forecast_revenue,2026年度 売上上積み余地,,百万円,FY2024,0.55,news_電子デバイス・レポート,news_llm
+信越化学工業,forecast_profit,2025年 通期営業利益 見通し（対前年+6%程度）,6.0,％,FY2024,0.7,news_ファクト・マーケット速報,news_llm
+信越化学工業,has_segment,シリコーン,,,FY2024,0.8,news_ファクト・マーケット速報,news_llm
+信越化学工業,has_segment,電子材料,,,FY2024,0.8,news_ファクト・マーケット速報,news_llm
+信越化学工業,competes_with,東亞合成,,,FY2024,0.6,news_ファクト・マーケット速報,news_llm
+信越化学工業,partners_with,顧客,,,FY2024,0.55,news_ファクト・マーケット速報,news_llm
+信越化学工業,risk_factor,数量成長 vs 単価下落の相殺,,,FY2024,0.55,news_ファクト・マーケット速報,news_llm
+信越化学工業,risk_factor,在庫積み上がり,,,FY2024,0.5,news_ファクト・マーケット速報,news_llm
+信越化学,competes_with,モメンティブ,,,FY2024,0.7,news_化学工業タイムズ,news_llm
+信越化学,invests_in,シリコーン系原料の内製・系列化,2.0,年率%（2025年上期で圧縮方針）,FY2024,0.85,news_化学工業タイムズ,news_llm
+信越化学,risk_factor,調達に伴う運賃・市況変動リスク,,,FY2024,0.75,news_化学工業タイムズ,news_llm
+信越化学,competes_with,モメンティブ等,,,FY2024,0.7,news_日本経済化学ニュース,news_llm
+信越化学,risk_factor,投資回収スピードリスク,,,FY2024,0.65,news_日本経済化学ニュース,news_llm
+ダイキン工業,partners_with,グループ外の主要供給先,,,FY2024,0.7,news_日経クロステック（生成記事）,news_llm
+ダイキン工業,competes_with,競合の空調大手（現地勢を含む）,,,FY2024,0.75,news_日経クロステック（生成記事）,news_llm
+ダイキン工業,forecast_revenue,2025年度計画（高効率ヒートポンプ関連の構成比）,3.5,pt,FY2024,0.8,news_日経クロステック（生成記事）,news_llm
+ダイキン工業,revenue_change,2025年4-6月 受注（北米）,18.0,%,FY2024,0.75,news_日経クロステック（生成記事）,news_llm
+ダイキン工業,partners_with,三菱電機,,,FY2024,0.88,news_電機産業タイムズ（生成記事）,news_llm
+ダイキン工業,competes_with,海外大手（競合）,,,FY2024,0.6,news_電機産業タイムズ（生成記事）,news_llm
+ダイキン工業,revenue_change,アジアのデータセンター向け冷却ソリューション,25.0,％,FY2024,0.75,news_電機産業タイムズ（生成記事）,news_llm
+ダイキン工業,operates_in,アジア,,,FY2024,0.7,news_電機産業タイムズ（生成記事）,news_llm
+ダイキン工業,launches,運用コスト削減提案（平均10%）,10.0,％,FY2024,0.7,news_電機産業タイムズ（生成記事）,news_llm
+ダイキン,partners_with,施工・点検網（パートナー企業）,,,FY2024,0.72,news_エネルギー環境新聞（生成記事）,news_llm
+ダイキン,supplies_to,冷媒・部材サプライヤー,,,FY2024,0.55,news_エネルギー環境新聞（生成記事）,news_llm
+ダイキン,competes_with,低GWP機器の競合他社,,,FY2024,0.45,news_エネルギー環境新聞（生成記事）,news_llm
+ダイキン,revenue_is,販売比率（低GWP冷媒対応機）,62.0,%,FY2024,0.78,news_エネルギー環境新聞（生成記事）,news_llm
+ダイキン,operating_profit_is,原材料コスト,-1.2,%,FY2024,0.7,news_エネルギー環境新聞（生成記事）,news_llm
+ダイキン,risk_factor,欧州冷媒規制強化,,,FY2024,0.6,news_エネルギー環境新聞（生成記事）,news_llm
+ダイキン,other,調達方針（スポット比率低減）,,,FY2024,0.65,news_エネルギー環境新聞（生成記事）,news_llm
+ダイキン,invests_in,設備関連投資（ダイキン）,15000.0,百万円,FY2024,0.75,news_サプライチェーン・ジャーナル（生成記事）,news_llm
+ダイキン,operates_in,国内,,,FY2024,0.7,news_サプライチェーン・ジャーナル（生成記事）,news_llm
+ダイキン,competes_with,パナソニック系の国内大手,,,FY2024,0.6,news_サプライチェーン・ジャーナル（生成記事）,news_llm
+ダイキン,supplies_to,住宅向け省エネ空調,,,FY2024,0.75,news_サプライチェーン・ジャーナル（生成記事）,news_llm
+ダイキン,guidance_change,粗利率下押し抑制方針（高効率モデル）,,,FY2024,0.55,news_サプライチェーン・ジャーナル（生成記事）,news_llm
+ダイキン,partners_with,部品メーカー,70.0,%,FY2024,0.7,news_サプライチェーン・ジャーナル（生成記事）,news_llm
+ダイキン,risk_factor,部品欠品リスク,,,FY2024,0.65,news_サプライチェーン・ジャーナル（生成記事）,news_llm
+ダイキン,revenue_change,工場稼働率,4.0,pt,FY2024,0.6,news_サプライチェーン・ジャーナル（生成記事）,news_llm
+ダイキン,revenue_change,冷凍空調のサービス,16.0,% YoY,FY2024,0.75,news_ファイナンス・レビュー（生成記事）,news_llm
+ダイキン,other,利益率改善,,,FY2024,0.65,news_ファイナンス・レビュー（生成記事）,news_llm
+ダイキン,other,3年契約中心へのシフト,,,FY2024,0.7,news_ファイナンス・レビュー（生成記事）,news_llm
+ダイキン,other,解約率,,,FY2024,0.7,news_ファイナンス・レビュー（生成記事）,news_llm
+ダイキン,competes_with,競合の同業,,,FY2024,0.6,news_ファイナンス・レビュー（生成記事）,news_llm
+ダイキン,other,データ解析による予防保全,,,FY2024,0.65,news_ファイナンス・レビュー（生成記事）,news_llm
+村田製作所,revenue_is,売上高（会社計画）,8.0,percent,FY2024,0.72,news_日経エレクトロニクス（仮）,news_llm
+村田製作所,has_segment,積層セラミックコンデンサ（MLCC）,,,FY2024,0.75,news_日経エレクトロニクス（仮）,news_llm
+村田製作所,operates_in,MLCC市況（在庫調整→回復）,,,FY2024,0.45,news_日経エレクトロニクス（仮）,news_llm
+村田製作所,competes_with,TDK,,,FY2024,0.78,news_日経エレクトロニクス（仮）,news_llm
+村田製作所,competes_with,京セラ,,,FY2024,0.78,news_日経エレクトロニクス（仮）,news_llm
+村田製作所,revenue_is,車載MLCC,12.0,％（前年同期比）,FY2024,0.72,news_ロイター・テック（仮）,news_llm
+村田製作所,operates_in,韓国,,,FY2024,0.78,news_ロイター・テック（仮）,news_llm
+村田製作所,operates_in,中国,,,FY2024,0.78,news_ロイター・テック（仮）,news_llm
+村田製作所,segment_revenue,車載高信頼品,,,FY2024,0.6,news_ロイター・テック（仮）,news_llm
+村田製作所,segment_revenue,汎用量産,,,FY2024,0.6,news_ロイター・テック（仮）,news_llm
+村田製作所,supplies_to,自動車OEM,,,FY2024,0.65,news_ロイター・テック（仮）,news_llm
+村田製作所,partners_with,大手通信半導体メーカー（記事上の表現）,,,FY2024,0.52,news_ロイター・テック（仮）,news_llm
+村田,revenue_change,2025年4-6月関連売上の前年同期比,6.0,%,FY2024,0.78,news_FACTORY & FINANCE（仮）,news_llm
+村田,supplies_to,5G基地局向け顧客,,,FY2024,0.6,news_FACTORY & FINANCE（仮）,news_llm
+村田,supplies_to,データセンター電源回路向け顧客,,,FY2024,0.6,news_FACTORY & FINANCE（仮）,news_llm
+村田,competes_with,村田同業,,,FY2024,0.55,news_FACTORY & FINANCE（仮）,news_llm
+村田,partners_with,通信機器メーカー,,,FY2024,0.7,news_FACTORY & FINANCE（仮）,news_llm
+村田,has_segment,通信・半導体向け部品,,,FY2024,0.65,news_FACTORY & FINANCE（仮）,news_llm
+村田,other,高付加価値品比率引き上げ戦略,,,FY2024,0.72,news_FACTORY & FINANCE（仮）,news_llm
+村田,competes_with,TDK,,,FY2024,0.75,news_エレクトロニクス・ウィークリー（仮）,news_llm
+村田,competes_with,日本ガイシ,,,FY2024,0.75,news_エレクトロニクス・ウィークリー（仮）,news_llm
+村田,supplies_to,半導体ファウンドリ,,,FY2024,0.6,news_エレクトロニクス・ウィークリー（仮）,news_llm
+村田,supplies_to,大手デバイスメーカー,,,FY2024,0.6,news_エレクトロニクス・ウィークリー（仮）,news_llm
+村田,operates_in,サムスン電子・TSMC周辺の供給網,,,FY2024,0.55,news_エレクトロニクス・ウィークリー（仮）,news_llm
+村田,competes_with,京セラ,,,FY2024,0.78,news_WSJ Japan Tech（仮）,news_llm
+村田,operates_in,米国,,,FY2024,0.72,news_WSJ Japan Tech（仮）,news_llm
+村田,operates_in,欧州,,,FY2024,0.72,news_WSJ Japan Tech（仮）,news_llm
+村田,risk_factor,米国・欧州の品質規格強化,,,FY2024,0.7,news_WSJ Japan Tech（仮）,news_llm
+村田,risk_factor,不良解析リードタイム短縮,20.0,%,FY2024,0.65,news_WSJ Japan Tech（仮）,news_llm
+村田,other,品質規格対応の検査・データ基盤強化,,,FY2024,0.8,news_WSJ Japan Tech（仮）,news_llm
+村田,other,在庫回転率,0.3,回転（年換算増分）,FY2024,0.8,news_WSJ Japan Tech（仮）,news_llm
+村田,partners_with,大手EMS/通信機器の顧客,,,FY2024,0.55,news_WSJ Japan Tech（仮）,news_llm

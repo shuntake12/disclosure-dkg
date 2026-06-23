@@ -1,0 +1,1736 @@
+[
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "従業員数 472名、平均臨時雇用者数 1,786名",
+      "object_entity": null,
+      "value": 472.0,
+      "unit": "名",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.8
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 2637,
+      "char_end": 5597,
+      "text_snippet": "従業員数（名）472"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "has_officer",
+      "object_text": "従業員（就業人員、出向者含む）",
+      "object_entity": null,
+      "value": 0.0,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.2
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 2637,
+      "char_end": 5597,
+      "text_snippet": "当社から当社グループへの出向者を含んでおります"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "has_segment",
+      "object_text": "焼肉事業",
+      "object_entity": null,
+      "value": 0.0,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.6
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 2637,
+      "char_end": 5597,
+      "text_snippet": "焼肉事業、焼鳥事業、レストラン事業"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "has_segment",
+      "object_text": "焼肉事業",
+      "object_entity": {
+        "name": "焼肉事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.72
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 5397,
+      "char_end": 6743,
+      "text_snippet": "（2）焼鳥事業"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "operates_in",
+      "object_text": "中部地区（愛知県、岐阜県、三重県、静岡県）",
+      "object_entity": {
+        "name": "中部地区",
+        "entity_type": "region",
+        "identifiers": {}
+      },
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.78
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 5397,
+      "char_end": 6743,
+      "text_snippet": "中部地区（愛知県、岐阜県、三重県）"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社スエヒロレストランシステム",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "belongs_to_industry",
+      "object_text": "焼肉事業／レストラン事業／その他の事業",
+      "object_entity": null,
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.4
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 5397,
+      "char_end": 6743,
+      "text_snippet": "焼肉事業 レストラン事業 その他の事業"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社スエヒロレストランシステム",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "has_segment",
+      "object_text": "焼肉事業",
+      "object_entity": {
+        "name": "焼肉事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 5397,
+      "char_end": 6743,
+      "text_snippet": "主要な事業の内容 焼肉事業"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社スエヒロレストランシステム",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "議決権の所有割合：100％",
+      "object_entity": null,
+      "value": 100.0,
+      "unit": "%",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.86
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 5397,
+      "char_end": 6743,
+      "text_snippet": "議決権の所有割合 100％"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社杉江商事",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "operates_in",
+      "object_text": "東京都江東区",
+      "object_entity": null,
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.7
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6744,
+      "char_end": 6804,
+      "text_snippet": "東京都江東区"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社杉江商事",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "3百万円",
+      "object_entity": null,
+      "value": 3.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.6
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6744,
+      "char_end": 6804,
+      "text_snippet": "3百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社杉江商事",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "has_segment",
+      "object_text": "焼肉事業",
+      "object_entity": null,
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.75
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6744,
+      "char_end": 6804,
+      "text_snippet": "焼肉事業"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社ニュールック",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "operates_in",
+      "object_text": "神奈川県大和市",
+      "object_entity": null,
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.7
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6805,
+      "char_end": 6868,
+      "text_snippet": "神奈川県大和市20百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社ニュールック",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "segment_revenue",
+      "object_text": "焼肉事業",
+      "object_entity": null,
+      "value": 20.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.4
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6805,
+      "char_end": 6868,
+      "text_snippet": "神奈川県大和市20百万円\n焼肉事業"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社ニュールック",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "has_segment",
+      "object_text": "焼肉事業",
+      "object_entity": null,
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.55
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6805,
+      "char_end": 6868,
+      "text_snippet": "焼肉事業"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社ニュールック",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "100％（連結子会社）",
+      "object_entity": null,
+      "value": 100.0,
+      "unit": "％",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.6
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6805,
+      "char_end": 6868,
+      "text_snippet": "100％"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "revenue_is",
+      "object_text": "9,778百万円",
+      "object_entity": null,
+      "value": 9778.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6869,
+      "char_end": 7189,
+      "text_snippet": "（1）売上高　　　9,778百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "net_income_is",
+      "object_text": "当期純利益 295百万円",
+      "object_entity": null,
+      "value": 295.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6869,
+      "char_end": 7189,
+      "text_snippet": "（3）当期純利益　　295百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "net_assets_is",
+      "object_text": "純資産額 3,145百万円",
+      "object_entity": null,
+      "value": 3145.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6869,
+      "char_end": 7189,
+      "text_snippet": "（4）純資産額　　3,145百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "total_assets_is",
+      "object_text": "総資産額 5,743百万円",
+      "object_entity": null,
+      "value": 5743.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "役員",
+      "char_start": 6869,
+      "char_end": 7189,
+      "text_snippet": "（5）総資産額　　5,743百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "S100VW42",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "焼肉事業 従業員数 336（1,556）名",
+      "object_entity": null,
+      "value": 336.0,
+      "unit": "名",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.86
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 7199,
+      "char_end": 7460,
+      "text_snippet": "焼肉事業\n336(1,556)"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社　あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "管理職に占める女性労働者の割合（全労働者）7.5%",
+      "object_entity": null,
+      "value": 7.5,
+      "unit": "%",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.92
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 7535,
+      "char_end": 9470,
+      "text_snippet": "管理職に占める女性労働者の割合（％）7.5"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社　スエヒロレストランシステム",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "管理職に占める女性労働者の割合（全労働者）6.7%",
+      "object_entity": null,
+      "value": 6.7,
+      "unit": "%",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.92
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 7535,
+      "char_end": 9470,
+      "text_snippet": "株式会社スエヒロレストランシステム6.7"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社　杉江商事",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "男性労働者の育児休業取得率（全労働者）0.0%",
+      "object_entity": null,
+      "value": 0.0,
+      "unit": "%",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.6
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 7535,
+      "char_end": 9470,
+      "text_snippet": "株式会社杉江商事　－"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社　ニュールック",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "管理職に占める女性労働者の割合（正規雇用労働者）3.6%",
+      "object_entity": null,
+      "value": 3.6,
+      "unit": "%",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 7535,
+      "char_end": 9470,
+      "text_snippet": "株式会社ニュールック　3.6"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "operating_profit_is",
+      "object_text": "7.7％（前期は6.9％）",
+      "object_entity": null,
+      "value": 7.7,
+      "unit": "％",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.6
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "経営方針",
+      "char_start": 9471,
+      "char_end": 12328,
+      "text_snippet": "売上高経常利益は7.7％（前期は6.9％）"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "revenue_change",
+      "object_text": "7.7％（前期は6.9％）",
+      "object_entity": null,
+      "value": 7.7,
+      "unit": "%",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.78
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "経営方針",
+      "char_start": 12128,
+      "char_end": 12610,
+      "text_snippet": "売上高経常利益は7.7％（前期は6.9％）"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "売上高経常利益率（2021年3月期：△4.6％）",
+      "object_entity": null,
+      "value": -4.6,
+      "unit": "%",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.7
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "経営方針",
+      "char_start": 12128,
+      "char_end": 12610,
+      "text_snippet": "2021年3月期 売上高経常利益率（％） △4.6"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "risk_factor",
+      "object_text": "GHG排出削減規制が強化された場合、対応費用が増加",
+      "object_entity": null,
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.72
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "サステナビリティ",
+      "char_start": 12893,
+      "char_end": 15893,
+      "text_snippet": "ＧＨＧ排出削減規制が強化された場合"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "esg_initiative",
+      "object_text": "店舗等の省エネルギー化により、GHG排出量削減",
+      "object_entity": null,
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.72
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "サステナビリティ",
+      "char_start": 12893,
+      "char_end": 15893,
+      "text_snippet": "店舗等の省エネルギー化により、ＧＨＧ排出量削減"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社　あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "risk_factor",
+      "object_text": "悪意あるサイバー攻撃等によるシステム障害で、個人情報や財務情報等が改ざん・流出する可能性",
+      "object_entity": null,
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.83
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "従業員",
+      "char_start": 19849,
+      "char_end": 21204,
+      "text_snippet": "悪意あるサイバー攻撃等によるシステム障害"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "segment_revenue",
+      "object_text": "22,366百万円",
+      "object_entity": null,
+      "value": 22366.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.98
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "財政状態",
+      "char_start": 21306,
+      "char_end": 22900,
+      "text_snippet": "焼肉事業の当連結会計年度の売上高は、22,366百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "segment_profit",
+      "object_text": "—",
+      "object_entity": null,
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.0
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "財政状態",
+      "char_start": 21306,
+      "char_end": 22900,
+      "text_snippet": "（営業利益等のセグメント利益は記載なし）"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社 あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "dividend_is",
+      "object_text": "691百万円",
+      "object_entity": null,
+      "value": 691.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "キャッシュ・フロー",
+      "char_start": 22903,
+      "char_end": 23483,
+      "text_snippet": "配当金の支払額が691百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "焼肉事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "segment_revenue",
+      "object_text": "5,624",
+      "object_entity": null,
+      "value": 5624.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.92
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 23484,
+      "char_end": 23659,
+      "text_snippet": "焼肉事業\n5,624"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "合計",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "segment_revenue",
+      "object_text": "5,624",
+      "object_entity": null,
+      "value": 5624.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.75
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 23484,
+      "char_end": 23659,
+      "text_snippet": "合計\n5,624"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "焼肉事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "revenue_change",
+      "object_text": "109.4",
+      "object_entity": null,
+      "value": 109.4,
+      "unit": "%",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 23484,
+      "char_end": 23613,
+      "text_snippet": "焼肉事業 4,460 109.4"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "合計",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "revenue_change",
+      "object_text": "109.4",
+      "object_entity": null,
+      "value": 109.4,
+      "unit": "%",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.85
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 23484,
+      "char_end": 23613,
+      "text_snippet": "合計 4,460 109.4"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "S100VW42",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "has_segment",
+      "object_text": "焼肉事業",
+      "object_entity": {
+        "name": "焼肉事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.78
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 23484,
+      "char_end": 23748,
+      "text_snippet": "焼肉事業\n4,813"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "S100VW42",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "segment_revenue",
+      "object_text": "焼肉事業",
+      "object_entity": {
+        "name": "焼肉事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "value": 4813.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.93
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 23484,
+      "char_end": 23748,
+      "text_snippet": "焼肉事業\n4,813"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "S100VW42",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "revenue_is",
+      "object_text": "合計 7,798",
+      "object_entity": null,
+      "value": 7798.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.85
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 23484,
+      "char_end": 23748,
+      "text_snippet": "合計\n7,798"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "segment_revenue",
+      "object_text": "焼肉事業",
+      "object_entity": {
+        "name": "焼肉事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "value": 22366.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.95
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 23484,
+      "char_end": 23841,
+      "text_snippet": "焼肉事業 22,366"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "revenue_is",
+      "object_text": "合計 35,332",
+      "object_entity": null,
+      "value": 35332.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.85
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 23484,
+      "char_end": 23841,
+      "text_snippet": "合計 35,332"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "当社グループ",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "revenue_is",
+      "object_text": "35,332百万円",
+      "object_entity": null,
+      "value": 35332.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.96
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "経営成績",
+      "char_start": 24415,
+      "char_end": 24594,
+      "text_snippet": "売上高35,332百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "当社グループ",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "revenue_change",
+      "object_text": "6.2％増",
+      "object_entity": null,
+      "value": 6.2,
+      "unit": "％",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.93
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "経営成績",
+      "char_start": 24415,
+      "char_end": 24594,
+      "text_snippet": "前年同期比6.2％増"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "当社グループ",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "operating_profit_is",
+      "object_text": "2,638百万円",
+      "object_entity": null,
+      "value": 2638.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.96
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "経営成績",
+      "char_start": 24415,
+      "char_end": 24594,
+      "text_snippet": "営業利益2,638百万"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "当社グループ",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "other",
+      "object_text": "前年同期比18.8％増",
+      "object_entity": null,
+      "value": 18.8,
+      "unit": "％",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "経営成績",
+      "char_start": 24415,
+      "char_end": 24594,
+      "text_snippet": "前年同期比18.8％増"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "当社グループ",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "net_income_is",
+      "object_text": "1,736百万円",
+      "object_entity": null,
+      "value": 1736.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.96
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "経営成績",
+      "char_start": 24415,
+      "char_end": 24594,
+      "text_snippet": "親会社株主に帰属する当期純利益1,736百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "当社グループ",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "total_assets_is",
+      "object_text": "27,810百万円",
+      "object_entity": null,
+      "value": 27810.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.92
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "財政状態",
+      "char_start": 24597,
+      "char_end": 24924,
+      "text_snippet": "当連結会計年度末の総資産は、27,810百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "当社グループ",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "net_assets_is",
+      "object_text": "21,941百万円",
+      "object_entity": null,
+      "value": 21941.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.92
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "財政状態",
+      "char_start": 24597,
+      "char_end": 24924,
+      "text_snippet": "純資産合計は、21,941百万円となりました"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "焼肉事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "revenue_is",
+      "object_text": "22,366百万円",
+      "object_entity": null,
+      "value": 22366.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.95
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 24927,
+      "char_end": 26521,
+      "text_snippet": "焼肉事業の当連結会計年度の売上高は22,366百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "焼鳥事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "revenue_is",
+      "object_text": "3,705百万円",
+      "object_entity": null,
+      "value": 3705.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.95
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 24927,
+      "char_end": 26521,
+      "text_snippet": "焼鳥事業の当連結会計年度の売上高は3,705百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "焼鳥事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "revenue_change",
+      "object_text": "前年同期比8.1％増",
+      "object_entity": null,
+      "value": 8.1,
+      "unit": "％",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 24927,
+      "char_end": 26521,
+      "text_snippet": "（前年同期比8.1％増）"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "レストラン事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "revenue_is",
+      "object_text": "7,669百万円",
+      "object_entity": null,
+      "value": 7669.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.95
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 24927,
+      "char_end": 26521,
+      "text_snippet": "レストラン事業の当連結会計年度の売上高は7,669百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "レストラン事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "revenue_change",
+      "object_text": "前年同期比30.8％増",
+      "object_entity": null,
+      "value": 30.8,
+      "unit": "％",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 24927,
+      "char_end": 26521,
+      "text_snippet": "（前年同期比30.8％増）"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "その他の事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "revenue_is",
+      "object_text": "1,591百万円",
+      "object_entity": null,
+      "value": 1591.0,
+      "unit": "百万円",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.95
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 24927,
+      "char_end": 26521,
+      "text_snippet": "その他の事業の当連結会計年度の売上高は1,591百万円"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "その他の事業",
+        "entity_type": "segment",
+        "identifiers": {}
+      },
+      "relation": "revenue_change",
+      "object_text": "前年同期比4.0％増",
+      "object_entity": null,
+      "value": 4.0,
+      "unit": "％",
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.9
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "セグメント",
+      "char_start": 24927,
+      "char_end": 26521,
+      "text_snippet": "（前年同期比4.0％増）"
+    },
+    "extraction_method": "llm_direct"
+  },
+  {
+    "quintuple": {
+      "subject": {
+        "name": "株式会社あみやき亭",
+        "entity_type": "company",
+        "identifiers": {}
+      },
+      "relation": "acquires",
+      "object_text": "クーデションカンパニー株式会社の全株式を取得し子会社化",
+      "object_entity": null,
+      "value": null,
+      "unit": null,
+      "timestamp": {
+        "fiscal_year": "FY2024",
+        "period_type": "annual",
+        "start_date": null,
+        "end_date": null,
+        "disclosure_date": null
+      },
+      "confidence": 0.7
+    },
+    "source": {
+      "doc_id": "S100VW42",
+      "section": "キャッシュ・フロー",
+      "char_start": 26566,
+      "char_end": 27824,
+      "text_snippet": "クーデションカンパニー株式会社の全株式を取得"
+    },
+    "extraction_method": "llm_direct"
+  }
+]
